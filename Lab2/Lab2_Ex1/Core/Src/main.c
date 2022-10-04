@@ -230,7 +230,7 @@ void HAL_TIM_PeriodElapsedCallback ( TIM_HandleTypeDef * htim )
 	counter --;
 	if( counter <= 0) {
 		counter = 50;
-		HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
+		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, RESET);
 		if (EN==0){
 			displaySeg7(1);
 			HAL_GPIO_WritePin(GPIOA, GPIO_PIN_6, RESET);

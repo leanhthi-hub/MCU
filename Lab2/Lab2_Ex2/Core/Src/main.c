@@ -226,7 +226,7 @@ static void MX_GPIO_Init(void)
 
 /* USER CODE BEGIN 4 */
 int counter =50;
-int EN=0;
+int EN = 0;
 const int MAX_LED = 4;
 int index_led = 0;
 int led_buffer [4] = {0 , 2, 3, 0};

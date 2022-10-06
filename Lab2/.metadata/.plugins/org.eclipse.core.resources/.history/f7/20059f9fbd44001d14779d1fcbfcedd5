@@ -1,0 +1,16 @@
+/*
+ * SoftwareTimmer.h
+ *
+ *  Created on: Oct 5, 2022
+ *      Author: Leanhthi
+ */
+
+#ifndef INC_SOFTWARETIMMER_H_
+#define INC_SOFTWARETIMMER_H_
+extern int timer0_counter;
+extern int timer0_flag;
+extern int TIMER_CYCLE;
+
+void setTimer
+
+#endif /* INC_SOFTWARETIMMER_H_ */

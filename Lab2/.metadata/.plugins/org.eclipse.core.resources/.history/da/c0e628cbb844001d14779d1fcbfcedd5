@@ -1,0 +1,24 @@
+/*
+ * Update7Seg.h
+ *
+ *  Created on: Oct 5, 2022
+ *      Author: Leanhthi
+ */
+
+#ifndef INC_UPDATE7SEG_H_
+#define INC_UPDATE7SEG_H_
+
+#include "Led7segment.h"
+#include "main.h"
+
+
+const int MAX_LED = 4;
+int index_led = 0;
+extern int led_buffer [];
+
+
+
+void update7SEG (int index );
+
+
+#endif /* INC_UPDATE7SEG_H_ */

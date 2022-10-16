@@ -229,7 +229,7 @@ int counter =50;
 int EN = 0;
 const int MAX_LED = 4;
 int index_led = 0;
-int led_buffer [4] = {0 , 2, 3, 0};
+int led_buffer [4] = {1 , 2, 3, 0};
 void HAL_TIM_PeriodElapsedCallback ( TIM_HandleTypeDef * htim )
 {
 	counter --;

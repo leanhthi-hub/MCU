@@ -5,5 +5,12 @@
 	<section name="completion_proposal_size">
 	</section>
 	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+		<item key="size.width" value="640"/>
+		<item key="size.height" value="382"/>
+		<item key="location.x" value="891"/>
+		<item key="location.y" value="203"/>
+	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
 	</section>
 </section>

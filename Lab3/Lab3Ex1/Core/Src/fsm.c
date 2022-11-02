@@ -1,0 +1,66 @@
+/*
+ * fsm.c
+ *
+ *  Created on: Nov 2, 2022
+ *      Author: Leanhthi
+ */
+#include "fsm.h"
+
+void toogleRed1(){
+	HAL_GPIO_WritePin(GPIOA, LED1_Pin, GPIO_PIN_SET);
+	HAL_GPIO_WritePin(GPIOA, LED2_Pin, GPIO_PIN_RESET);
+}
+void toogleGreen1(){
+	HAL_GPIO_WritePin(GPIOA, LED1_Pin, GPIO_PIN_RESET);
+	HAL_GPIO_WritePin(GPIOA, LED2_Pin, GPIO_PIN_SET);
+}
+void toogleYellow1(){
+	HAL_GPIO_WritePin(GPIOA, LED1_Pin|LED2_Pin, GPIO_PIN_SET);
+}
+
+void fsm_manual_run(){
+	switch (status) {
+		case MAN_RED:
+			toogleRed1();
+			if (timer1_flag ==1){
+				status = AUTO_RED;
+				setTimer1(500);
+			}
+			if (button1_flag == 1){
+				button1_flag = 0;
+				status = MAN_GREEN;
+				setTimer1(1000);
+			}
+
+			break;
+		case MAN_GREEN:
+			toogleGreen1();
+			if (timer1_flag ==1){
+				status = AUTO_GREEN;
+				setTimer1(300);
+			}
+			if (button1_flag == 1){
+				button1_flag = 0;
+				status = MAN_YELLOW;
+				setTimer1(1000);
+			}
+
+			break;
+		case MAN_YELLOW:
+			toogleYellow1();
+			if (timer1_flag ==1){
+				status = AUTO_YELLOW;
+				setTimer1(200);
+			}
+			if (button1_flag == 1){
+				button1_flag = 0;
+				status = MAN_RED;
+				setTimer1(500);
+			}
+
+			break;
+		default:
+			break;
+	}
+}
+

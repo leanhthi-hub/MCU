@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_Cjw1gVqNEe2lq88-f3golQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_Cjw1glqNEe2lq88-f3golQ" bindingContexts="_Cjw1i1qNEe2lq88-f3golQ">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;timer.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/timer.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/timer.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;global.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/global.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/global.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;fsm.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/fsm.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/fsm.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;timer.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/timer.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/timer.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;fsm.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/fsm.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/fsm.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;global.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/global.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/global.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_processing.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/input_processing.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/input_processing.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_processing.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/input_processing.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/input_processing.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_reading.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/input_reading.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/input_reading.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_reading.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/input_reading.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/input_reading.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;main.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/main.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/main.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.st.stm32cube.common.mx.startCubeMx&quot; name=&quot;Lab3Ex1.ioc&quot; tooltip=&quot;Lab3Ex1/Lab3Ex1.ioc&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Lab3Ex1.ioc&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
@@ -16,6 +17,8 @@
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_DuSH4FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_EAXWYFqNEe2lq88-f3golQ">
         <children xsi:type="advanced:Perspective" xmi:id="_EAXWYFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.ui.CPerspective" selectedElement="_EAXWYVqNEe2lq88-f3golQ" label="C/C++" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/c_pers.gif">
 =======
+=======
+>>>>>>> Stashed changes
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_QIlEkFq9Ee2lq88-f3golQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_QIlEkVq9Ee2lq88-f3golQ" bindingContexts="_QIm621q9Ee2lq88-f3golQ">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;timer.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/timer.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/timer.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;global.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/global.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/global.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;fsm.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/fsm.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/fsm.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;timer.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/timer.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/timer.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;fsm.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/fsm.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/fsm.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;global.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/global.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/global.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_processing.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/input_processing.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/input_processing.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_processing.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/input_processing.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/input_processing.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_reading.h&quot; tooltip=&quot;Lab3Ex1/Core/Inc/input_reading.h&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Inc/input_reading.h&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;input_reading.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/input_reading.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/input_reading.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;main.c&quot; tooltip=&quot;Lab3Ex1/Core/Src/main.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Core/Src/main.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.st.stm32cube.common.mx.startCubeMx&quot; name=&quot;Lab3Ex1.ioc&quot; tooltip=&quot;Lab3Ex1/Lab3Ex1.ioc&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Lab3Ex1/Lab3Ex1.ioc&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
@@ -27,6 +30,9 @@
     <children xsi:type="basic:PartSashContainer" xmi:id="_QIlEklq9Ee2lq88-f3golQ" selectedElement="_QIlEk1q9Ee2lq88-f3golQ" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_QIlEk1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_QIlElFq9Ee2lq88-f3golQ">
         <children xsi:type="advanced:Perspective" xmi:id="_QIlElFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.CPerspective" selectedElement="_QIlElVq9Ee2lq88-f3golQ" label="C/C++" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/c_pers.gif">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,"/>
           <tags>persp.actionSet:com.st.stm32cube.ide.mcu.informationcenter.actionSet3</tags>
@@ -82,6 +88,7 @@
           <tags>persp.viewSC:com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view</tags>
           <tags>persp.viewSC:com.st.stm32cube.ide.mcu.sfrview</tags>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           <children xsi:type="basic:PartSashContainer" xmi:id="_EAXWYVqNEe2lq88-f3golQ" selectedElement="_EAXWYlqNEe2lq88-f3golQ" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_EAXWYlqNEe2lq88-f3golQ" elementId="topLeft" containerData="2500" selectedElement="_EAXWY1qNEe2lq88-f3golQ">
               <tags>active</tags>
@@ -95,6 +102,8 @@
               </children>
               <children xsi:type="advanced:Placeholder" xmi:id="_EAXWZVqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_EARPwVqNEe2lq88-f3golQ" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
           <children xsi:type="basic:PartSashContainer" xmi:id="_QIlElVq9Ee2lq88-f3golQ" selectedElement="_QIlEmlq9Ee2lq88-f3golQ" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_QIlEllq9Ee2lq88-f3golQ" elementId="topLeft" containerData="2500" selectedElement="_QIlEl1q9Ee2lq88-f3golQ">
               <children xsi:type="advanced:Placeholder" xmi:id="_QIlEl1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_QIls-lq9Ee2lq88-f3golQ" closeable="true">
@@ -106,11 +115,15 @@
                 <tags>categoryTag:C/C++</tags>
               </children>
               <children xsi:type="advanced:Placeholder" xmi:id="_QIlEmVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_QImS4Vq9Ee2lq88-f3golQ" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 <tags>View</tags>
                 <tags>categoryTag:General</tags>
               </children>
             </children>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             <children xsi:type="basic:PartSashContainer" xmi:id="_EAXWZlqNEe2lq88-f3golQ" containerData="7500" selectedElement="_EAXWZ1qNEe2lq88-f3golQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_EAXWZ1qNEe2lq88-f3golQ" containerData="7500" selectedElement="_EAXWaFqNEe2lq88-f3golQ" horizontal="true">
@@ -126,6 +139,8 @@
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_EAXWbFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" ref="_EAWvUFqNEe2lq88-f3golQ" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
             <children xsi:type="basic:PartSashContainer" xmi:id="_QIlEmlq9Ee2lq88-f3golQ" containerData="7500" selectedElement="_QIlEm1q9Ee2lq88-f3golQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_QIlEm1q9Ee2lq88-f3golQ" containerData="7500" selectedElement="_QIlEnFq9Ee2lq88-f3golQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_QIlEnFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_QIls01q9Ee2lq88-f3golQ"/>
@@ -139,12 +154,16 @@
                     <tags>categoryTag:General</tags>
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_QIlEoFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" ref="_QImTZlq9Ee2lq88-f3golQ" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                     <tags>View</tags>
                     <tags>categoryTag:Make</tags>
                   </children>
                 </children>
               </children>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
               <children xsi:type="basic:PartSashContainer" xmi:id="_EAXWbVqNEe2lq88-f3golQ" containerData="2500" selectedElement="_EAXWblqNEe2lq88-f3golQ" horizontal="true">
                 <children xsi:type="basic:PartStack" xmi:id="_EAXWblqNEe2lq88-f3golQ" elementId="bottom" containerData="5000" selectedElement="_EAXWb1qNEe2lq88-f3golQ">
@@ -162,6 +181,8 @@
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_EAXWclqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" ref="_EASd4FqNEe2lq88-f3golQ" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
               <children xsi:type="basic:PartSashContainer" xmi:id="_QIlEoVq9Ee2lq88-f3golQ" containerData="2500" selectedElement="_QIlEolq9Ee2lq88-f3golQ" horizontal="true">
                 <children xsi:type="basic:PartStack" xmi:id="_QIlEolq9Ee2lq88-f3golQ" elementId="bottom" containerData="5000" selectedElement="_QIlEo1q9Ee2lq88-f3golQ">
                   <children xsi:type="advanced:Placeholder" xmi:id="_QIlEo1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView" ref="_QImS4lq9Ee2lq88-f3golQ" closeable="true">
@@ -177,11 +198,15 @@
                     <tags>categoryTag:General</tags>
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_QIlEplq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" ref="_QImTAVq9Ee2lq88-f3golQ" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                     <tags>View</tags>
                     <tags>categoryTag:General</tags>
                   </children>
                 </children>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 <children xsi:type="basic:PartStack" xmi:id="_EAXWc1qNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.viewMStack" containerData="5000" selectedElement="_EAXWdFqNEe2lq88-f3golQ">
                   <children xsi:type="advanced:Placeholder" xmi:id="_EAXWdFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view" ref="_EAWvUVqNEe2lq88-f3golQ" closeable="true">
@@ -190,12 +215,17 @@
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_EAXWdVqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" ref="_EAWvUlqNEe2lq88-f3golQ" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
                 <children xsi:type="basic:PartStack" xmi:id="_QIlEp1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.viewMStack" containerData="5000" selectedElement="_QIlEqFq9Ee2lq88-f3golQ">
                   <children xsi:type="advanced:Placeholder" xmi:id="_QIlEqFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view" ref="_QImTcVq9Ee2lq88-f3golQ" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:C/C++</tags>
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_QIlEqVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" ref="_QImTe1q9Ee2lq88-f3golQ" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                     <tags>View</tags>
                     <tags>categoryTag:C/C++</tags>
@@ -206,7 +236,11 @@
           </children>
         </children>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <children xsi:type="advanced:Perspective" xmi:id="_f8iGUFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.perspective" selectedElement="_f8iGUVqNEe2lq88-f3golQ" label="Device Configuration Tool" iconURI="platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png">
+=======
+        <children xsi:type="advanced:Perspective" xmi:id="_QIlEqlq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.perspective" selectedElement="_QIlEq1q9Ee2lq88-f3golQ" label="Device Configuration Tool" iconURI="platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png">
+>>>>>>> Stashed changes
 =======
         <children xsi:type="advanced:Perspective" xmi:id="_QIlEqlq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.perspective" selectedElement="_QIlEq1q9Ee2lq88-f3golQ" label="Device Configuration Tool" iconURI="platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png">
 >>>>>>> Stashed changes
@@ -226,9 +260,15 @@
           <tags>persp.newWizSC:com.st.stm32cube.common.projectcreation.ui.stm32projectwizard</tags>
           <tags>persp.newWizSC:com.st.stm32cube.common.projectcreation.ui.stm32projectfromiocwizard</tags>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           <children xsi:type="basic:PartSashContainer" xmi:id="_f8iGUVqNEe2lq88-f3golQ" selectedElement="_f8iGVFqNEe2lq88-f3golQ" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_f8iGUlqNEe2lq88-f3golQ" elementId="left" containerData="1100" selectedElement="_f8iGU1qNEe2lq88-f3golQ">
               <children xsi:type="advanced:Placeholder" xmi:id="_f8iGU1qNEe2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_EAQBoFqNEe2lq88-f3golQ" closeable="true">
+=======
+          <children xsi:type="basic:PartSashContainer" xmi:id="_QIlEq1q9Ee2lq88-f3golQ" selectedElement="_QIlErlq9Ee2lq88-f3golQ" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_QIlErFq9Ee2lq88-f3golQ" elementId="left" containerData="1100" selectedElement="_QIlErVq9Ee2lq88-f3golQ">
+              <children xsi:type="advanced:Placeholder" xmi:id="_QIlErVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_QIls-lq9Ee2lq88-f3golQ" closeable="true">
+>>>>>>> Stashed changes
 =======
           <children xsi:type="basic:PartSashContainer" xmi:id="_QIlEq1q9Ee2lq88-f3golQ" selectedElement="_QIlErlq9Ee2lq88-f3golQ" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_QIlErFq9Ee2lq88-f3golQ" elementId="left" containerData="1100" selectedElement="_QIlErVq9Ee2lq88-f3golQ">
@@ -239,6 +279,7 @@
               </children>
             </children>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             <children xsi:type="basic:PartSashContainer" xmi:id="_f8iGVFqNEe2lq88-f3golQ" containerData="8900" selectedElement="_f8iGVVqNEe2lq88-f3golQ">
               <children xsi:type="advanced:Placeholder" xmi:id="_f8iGVVqNEe2lq88-f3golQ" elementId="org.eclipse.ui.editorss" containerData="9000" ref="_EAJT8FqNEe2lq88-f3golQ"/>
               <children xsi:type="basic:PartSashContainer" xmi:id="_f8iGVlqNEe2lq88-f3golQ" toBeRendered="false" containerData="1000">
@@ -246,12 +287,17 @@
                 <children xsi:type="basic:PartStack" xmi:id="_f8iGWFqNEe2lq88-f3golQ" elementId="bottomRight" toBeRendered="false" containerData="5000">
                   <children xsi:type="advanced:Placeholder" xmi:id="_f8iGWVqNEe2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.views.OutputsView" toBeRendered="false" ref="_f8hfQFqNEe2lq88-f3golQ" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
             <children xsi:type="basic:PartSashContainer" xmi:id="_QIlErlq9Ee2lq88-f3golQ" containerData="8900" selectedElement="_QIlEr1q9Ee2lq88-f3golQ">
               <children xsi:type="advanced:Placeholder" xmi:id="_QIlEr1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.editorss" containerData="9000" ref="_QIls01q9Ee2lq88-f3golQ"/>
               <children xsi:type="basic:PartSashContainer" xmi:id="_QIlEsFq9Ee2lq88-f3golQ" toBeRendered="false" containerData="1000">
                 <children xsi:type="basic:PartStack" xmi:id="_QIlEsVq9Ee2lq88-f3golQ" elementId="topRight" toBeRendered="false" containerData="5000"/>
                 <children xsi:type="basic:PartStack" xmi:id="_QIlEslq9Ee2lq88-f3golQ" elementId="bottomRight" toBeRendered="false" containerData="5000">
                   <children xsi:type="advanced:Placeholder" xmi:id="_QIlEs1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.views.OutputsView" toBeRendered="false" ref="_QImTf1q9Ee2lq88-f3golQ" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                     <tags>View</tags>
                     <tags>categoryTag:Device Configuration Tool</tags>
@@ -262,6 +308,7 @@
           </children>
         </children>
       </children>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <children xsi:type="basic:PartStack" xmi:id="_DuSH4VqNEe2lq88-f3golQ" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
         <children xsi:type="advanced:Placeholder" xmi:id="_DuSH4lqNEe2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_DuQ5wFqNEe2lq88-f3golQ" closeable="true">
@@ -274,6 +321,8 @@
         </children>
         <children xsi:type="advanced:Placeholder" xmi:id="_DuSH5FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" toBeRendered="false" ref="_DuRg0VqNEe2lq88-f3golQ" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <children xsi:type="basic:PartStack" xmi:id="_QIlEtFq9Ee2lq88-f3golQ" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
         <children xsi:type="advanced:Placeholder" xmi:id="_QIlEtVq9Ee2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_QIlszlq9Ee2lq88-f3golQ" closeable="true">
           <tags>View</tags>
@@ -284,6 +333,9 @@
           <tags>categoryTag:General</tags>
         </children>
         <children xsi:type="advanced:Placeholder" xmi:id="_QIlEt1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" toBeRendered="false" ref="_QIls0lq9Ee2lq88-f3golQ" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
           <tags>View</tags>
           <tags>categoryTag:Help</tags>
@@ -291,7 +343,11 @@
       </children>
     </children>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <sharedElements xsi:type="basic:Part" xmi:id="_DuQ5wFqNEe2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.png" tooltip="" closeable="true">
+=======
+    <sharedElements xsi:type="basic:Part" xmi:id="_QIlszlq9Ee2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.png" tooltip="" closeable="true">
+>>>>>>> Stashed changes
 =======
     <sharedElements xsi:type="basic:Part" xmi:id="_QIlszlq9Ee2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.png" tooltip="" closeable="true">
 >>>>>>> Stashed changes
@@ -301,7 +357,11 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <sharedElements xsi:type="basic:Part" xmi:id="_DuRg0FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Information Center" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" closeable="true">
+=======
+    <sharedElements xsi:type="basic:Part" xmi:id="_QIlsz1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Information Center" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" closeable="true">
+>>>>>>> Stashed changes
 =======
     <sharedElements xsi:type="basic:Part" xmi:id="_QIlsz1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Information Center" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" closeable="true">
 >>>>>>> Stashed changes
@@ -311,6 +371,7 @@
       <tags>View</tags>
       <tags>categoryTag:General</tags>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <menus xmi:id="_E0hXMFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -319,6 +380,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_DuRg0VqNEe2lq88-f3golQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QIls0Fq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -326,12 +389,16 @@
       <toolbar xmi:id="_QIls0Vq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QIls0lq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.cheatsheets.views.CheatSheetView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.cheatsheets"/>
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     <sharedElements xsi:type="advanced:Area" xmi:id="_EAJT8FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.editorss" selectedElement="_EAJT8VqNEe2lq88-f3golQ">
       <children xsi:type="basic:PartStack" xmi:id="_EAJT8VqNEe2lq88-f3golQ" elementId="org.eclipse.e4.primaryDataStack">
@@ -341,6 +408,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EAQBoFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
     <sharedElements xsi:type="advanced:Area" xmi:id="_QIls01q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.editorss" selectedElement="_QIls1Fq9Ee2lq88-f3golQ">
       <children xsi:type="basic:PartStack" xmi:id="_QIls1Fq9Ee2lq88-f3golQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_QIls9lq9Ee2lq88-f3golQ">
         <tags>org.eclipse.e4.primaryDataStack</tags>
@@ -411,12 +480,16 @@
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QIls-lq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.cdt.ui.cview.groupincludes=&quot;false&quot; org.eclipse.cdt.ui.cview.groupmacros=&quot;false&quot; org.eclipse.cdt.ui.editor.CUChildren=&quot;true&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <tags>active</tags>
       <tags>activeOnClose</tags>
@@ -428,6 +501,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EARPwFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.ui.CView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="C/C++ Projects" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/cview.gif" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QIls-1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -435,6 +510,9 @@
       <toolbar xmi:id="_QImS21q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImS4Fq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.CView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="C/C++ Projects" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/cview.gif" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.cdt.internal.ui.cview.CView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.cdt.ui"/>
@@ -442,7 +520,11 @@
       <tags>categoryTag:C/C++</tags>
     </sharedElements>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <sharedElements xsi:type="basic:Part" xmi:id="_EARPwVqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
+=======
+    <sharedElements xsi:type="basic:Part" xmi:id="_QImS4Vq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
+>>>>>>> Stashed changes
 =======
     <sharedElements xsi:type="basic:Part" xmi:id="_QImS4Vq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
 >>>>>>> Stashed changes
@@ -452,7 +534,11 @@
       <tags>categoryTag:General</tags>
     </sharedElements>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <sharedElements xsi:type="basic:Part" xmi:id="_EARPwlqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
+=======
+    <sharedElements xsi:type="basic:Part" xmi:id="_QImS4lq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
+>>>>>>> Stashed changes
 =======
     <sharedElements xsi:type="basic:Part" xmi:id="_QImS4lq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
 >>>>>>> Stashed changes
@@ -462,6 +548,7 @@
       <tags>View</tags>
       <tags>categoryTag:General</tags>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <menus xmi:id="_EjBXgFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -470,6 +557,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EAR20FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImS41q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -477,12 +566,16 @@
       <toolbar xmi:id="_QImS71q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImS8lq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.TasksView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.completionField&quot; categoryGroup=&quot;none&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.tasksGenerator&quot; partName=&quot;Tasks&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.completionField=&quot;50&quot; org.eclipse.ui.ide.descriptionField=&quot;500&quot; org.eclipse.ui.ide.locationField=&quot;150&quot; org.eclipse.ui.ide.markerType=&quot;150&quot; org.eclipse.ui.ide.pathField=&quot;200&quot; org.eclipse.ui.ide.priorityField=&quot;50&quot; org.eclipse.ui.ide.resourceField=&quot;150&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.completionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.priorityField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.descriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <menus xmi:id="_FSIgQFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList">
         <tags>ViewMenu</tags>
@@ -492,6 +585,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EAR20VqNEe2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImS81q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -499,12 +594,16 @@
       <toolbar xmi:id="_QImS9Vq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImS-Fq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.console.ConsoleView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.console"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <menus xmi:id="_FTcH0FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
@@ -514,6 +613,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EASd4FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImS-Vq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -521,12 +622,16 @@
       <toolbar xmi:id="_QImS-lq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImTAVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.properties.PropertySheet"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <menus xmi:id="_FUVfsFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet">
         <tags>ViewMenu</tags>
@@ -536,6 +641,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EASd4VqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImTAlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -543,12 +650,16 @@
       <toolbar xmi:id="_QImTBlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImTI1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.contentoutline.ContentOutline"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <menus xmi:id="_EhhisFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline">
         <tags>ViewMenu</tags>
@@ -558,6 +669,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EAWIQFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.minimap.MinimapView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Minimap" iconURI="platform:/plugin/org.eclipse.ui.workbench.texteditor/icons/full/eview16/minimap.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImTJFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -565,6 +678,9 @@
       <toolbar xmi:id="_QImTLlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImTZVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.minimap.MinimapView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Minimap" iconURI="platform:/plugin/org.eclipse.ui.workbench.texteditor/icons/full/eview16/minimap.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.minimap.MinimapView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.workbench.texteditor"/>
@@ -572,7 +688,11 @@
       <tags>categoryTag:General</tags>
     </sharedElements>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <sharedElements xsi:type="basic:Part" xmi:id="_EAWvUFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Build Targets" iconURI="platform:/plugin/org.eclipse.cdt.make.ui/icons/view16/make_target.gif" tooltip="" closeable="true">
+=======
+    <sharedElements xsi:type="basic:Part" xmi:id="_QImTZlq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Build Targets" iconURI="platform:/plugin/org.eclipse.cdt.make.ui/icons/view16/make_target.gif" tooltip="" closeable="true">
+>>>>>>> Stashed changes
 =======
     <sharedElements xsi:type="basic:Part" xmi:id="_QImTZlq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Build Targets" iconURI="platform:/plugin/org.eclipse.cdt.make.ui/icons/view16/make_target.gif" tooltip="" closeable="true">
 >>>>>>> Stashed changes
@@ -582,6 +702,7 @@
       <tags>View</tags>
       <tags>categoryTag:Make</tags>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <menus xmi:id="_FU2dEFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -590,6 +711,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EAWvUVqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Build Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.buildanalyzer/icons/view_icon.gif" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImTZ1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -597,12 +720,16 @@
       <toolbar xmi:id="_QImTaFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImTcVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Build Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.buildanalyzer/icons/view_icon.gif" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="elf_analyzer.ElfAnalyzerView"/>
       <persistedState key="originalCompatibilityViewBundle" value="com.st.stm32cube.ide.mcu.buildanalyzer"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:C/C++</tags>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <menus xmi:id="_EkW0QFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view">
         <tags>ViewMenu</tags>
@@ -612,6 +739,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_EAWvUlqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Static Stack Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.stackanalyzer/icons/view_icon.gif" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImTclq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -619,12 +748,16 @@
       <toolbar xmi:id="_QImTeVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImTe1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Static Stack Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.stackanalyzer/icons/view_icon.gif" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView"/>
       <persistedState key="originalCompatibilityViewBundle" value="com.st.stm32cube.ide.mcu.stackanalyzer"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:C/C++</tags>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       <menus xmi:id="_FWzk4FqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view">
         <tags>ViewMenu</tags>
@@ -634,6 +767,8 @@
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_f8hfQFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.views.OutputsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outputs" iconURI="platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png" tooltip="" closeable="true">
 =======
+=======
+>>>>>>> Stashed changes
       <menus xmi:id="_QImTfFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -641,12 +776,16 @@
       <toolbar xmi:id="_QImTfVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_QImTf1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.views.OutputsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outputs" iconURI="platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png" tooltip="" closeable="true">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <persistedState key="originalCompatibilityViewClass" value="com.st.stm32cube.common.mx.views.OutPutMxView"/>
       <persistedState key="originalCompatibilityViewBundle" value="com.st.stm32cube.common.mx"/>
       <tags>View</tags>
       <tags>categoryTag:Device Configuration Tool</tags>
     </sharedElements>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     <trimBars xmi:id="_Cjw1g1qNEe2lq88-f3golQ" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.ui.workbench">
       <children xsi:type="menu:ToolBar" xmi:id="_D4ksUFqNEe2lq88-f3golQ" elementId="group.file" toBeRendered="false">
@@ -705,6 +844,8 @@
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_D767QFqNEe2lq88-f3golQ" elementId="PerspectiveSwitcher" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher">
 =======
+=======
+>>>>>>> Stashed changes
     <trimBars xmi:id="_QImTgFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.ui.workbench">
       <children xsi:type="menu:ToolBar" xmi:id="_QImTgVq9Ee2lq88-f3golQ" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -764,12 +905,16 @@
         <tags>SHOW_RESTORE_MENU</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_QImT9Fq9Ee2lq88-f3golQ" elementId="PerspectiveSwitcher" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         <tags>Draggable</tags>
         <tags>HIDEABLE</tags>
         <tags>SHOW_RESTORE_MENU</tags>
       </children>
     </trimBars>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     <trimBars xmi:id="_Cjw1hFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.trim.status" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Bottom">
       <children xsi:type="menu:ToolControl" xmi:id="_Cjw1hVqNEe2lq88-f3golQ" elementId="org.eclipse.ui.StatusLine" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
@@ -785,6 +930,8 @@
     <trimBars xmi:id="_Cjw1iFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.trim.vertical1" contributorURI="platform:/plugin/org.eclipse.ui.workbench" toBeRendered="false" side="Left">
       <children xsi:type="menu:ToolControl" xmi:id="_E49LQFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.ide.perspectivestack(minimized)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
 =======
+=======
+>>>>>>> Stashed changes
     <trimBars xmi:id="_QImT9Vq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.trim.status" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Bottom">
       <children xsi:type="menu:ToolControl" xmi:id="_QImT9lq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.StatusLine" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
         <tags>stretch</tags>
@@ -798,11 +945,15 @@
     </trimBars>
     <trimBars xmi:id="_QImUAFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.trim.vertical1" contributorURI="platform:/plugin/org.eclipse.ui.workbench" toBeRendered="false" side="Left">
       <children xsi:type="menu:ToolControl" xmi:id="_QImUAVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.ide.perspectivestack(minimized)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
     </trimBars>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     <trimBars xmi:id="_Cjw1iVqNEe2lq88-f3golQ" elementId="org.eclipse.ui.trim.vertical2" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Right"/>
   </children>
@@ -1208,6 +1359,8 @@
   </descriptors>
   <descriptors xmi:id="_Dq4OkFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.views.OutputsView" label="Outputs" iconURI="platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png" tooltip="" category="Device Configuration Tool" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 =======
+=======
+>>>>>>> Stashed changes
     <trimBars xmi:id="_QImUAlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.trim.vertical2" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Right"/>
   </children>
   <bindingTables xmi:id="_QImUA1q9Ee2lq88-f3golQ" contributorURI="platform:/plugin/org.eclipse.ui.workbench" bindingContext="_QIm621q9Ee2lq88-f3golQ">
@@ -1611,6 +1764,9 @@
     <tags>removeOnHide</tags>
   </descriptors>
   <descriptors xmi:id="_QIm7GVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.common.mx.views.OutputsView" label="Outputs" iconURI="platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png" tooltip="" category="Device Configuration Tool" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <persistedState key="originalCompatibilityViewClass" value="com.st.stm32cube.common.mx.views.OutPutMxView"/>
     <persistedState key="originalCompatibilityViewBundle" value="com.st.stm32cube.common.mx"/>
@@ -1618,7 +1774,11 @@
     <tags>categoryTag:Device Configuration Tool</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dq5csFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view" label="Build Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.buildanalyzer/icons/view_icon.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Glq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view" label="Build Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.buildanalyzer/icons/view_icon.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Glq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.buildanalyzer.view" label="Build Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.buildanalyzer/icons/view_icon.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1628,7 +1788,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrD0wFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.logview" label="SWV Trace Log" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_spreadsheet.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7G1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.logview" label="SWV Trace Log" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_spreadsheet.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7G1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.logview" label="SWV Trace Log" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_spreadsheet.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1638,7 +1802,11 @@
     <tags>categoryTag:SWV</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrD0wVqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.statisticalprofiling" label="SWV Statistical Profiling" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_statistical_profiling.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7HFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.statisticalprofiling" label="SWV Statistical Profiling" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_statistical_profiling.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7HFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.statisticalprofiling" label="SWV Statistical Profiling" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_statistical_profiling.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1648,7 +1816,11 @@
     <tags>categoryTag:SWV</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrFC4FqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.itmtrace" label="SWV ITM Data Console" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/console_view.gif" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7HVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.itmtrace" label="SWV ITM Data Console" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/console_view.gif" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7HVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.itmtrace" label="SWV ITM Data Console" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/console_view.gif" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1658,7 +1830,11 @@
     <tags>categoryTag:SWV</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrGRAFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.ui.exception.exceptionlogview" label="SWV Exception Trace Log" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_Exception_spreadsheet.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Hlq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.ui.exception.exceptionlogview" label="SWV Exception Trace Log" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_Exception_spreadsheet.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Hlq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.ui.exception.exceptionlogview" label="SWV Exception Trace Log" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/SWV_Exception_spreadsheet.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1668,7 +1844,11 @@
     <tags>categoryTag:SWV</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrG4EFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.ui.datatraceview" label="SWV Data Trace" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/insp_sbook.gif" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7H1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.ui.datatraceview" label="SWV Data Trace" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/insp_sbook.gif" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7H1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.ui.datatraceview" label="SWV Data Trace" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/insp_sbook.gif" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1678,7 +1858,11 @@
     <tags>categoryTag:SWV</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrHfIFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.SWVDatatraceTimeline" label="SWV Data Trace Timeline Graph" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/Datatrace_timeline.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7IFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.SWVDatatraceTimeline" label="SWV Data Trace Timeline Graph" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/Datatrace_timeline.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7IFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.debug.swv.core.SWVDatatraceTimeline" label="SWV Data Trace Timeline Graph" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.debug.swv/icons/Datatrace_timeline.png" tooltip="" category="SWV" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1688,7 +1872,11 @@
     <tags>categoryTag:SWV</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrIGMFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.faultanalyzer.view" label="Fault Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.faultanalyzer/icons/clanbomber.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7IVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.faultanalyzer.view" label="Fault Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.faultanalyzer/icons/clanbomber.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7IVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.faultanalyzer.view" label="Fault Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.faultanalyzer/icons/clanbomber.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1698,7 +1886,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrXWwFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.queues" label="FreeRTOS Queues" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Ilq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.queues" label="FreeRTOS Queues" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Ilq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.queues" label="FreeRTOS Queues" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1708,7 +1900,11 @@
     <tags>categoryTag:FreeRTOS</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrX90FqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.tasklist" label="FreeRTOS Task List" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7I1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.tasklist" label="FreeRTOS Task List" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7I1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.tasklist" label="FreeRTOS Task List" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1718,7 +1914,11 @@
     <tags>categoryTag:FreeRTOS</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrYk4FqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.semaphore" label="FreeRTOS Semaphores" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7JFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.semaphore" label="FreeRTOS Semaphores" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7JFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.semaphore" label="FreeRTOS Semaphores" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1728,7 +1928,11 @@
     <tags>categoryTag:FreeRTOS</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrZL8FqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.timers" label="FreeRTOS Timers" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7JVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.timers" label="FreeRTOS Timers" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7JVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.freertos.timers" label="FreeRTOS Timers" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.freertos/icons/debugt_obj.gif" tooltip="" category="FreeRTOS" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1738,7 +1942,11 @@
     <tags>categoryTag:FreeRTOS</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrZzAFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.livewatch.LiveExpressionsView" label="Live Expressions" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.livewatch/icons/watchlist_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Jlq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.livewatch.LiveExpressionsView" label="Live Expressions" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.livewatch/icons/watchlist_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Jlq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.livewatch.LiveExpressionsView" label="Live Expressions" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.livewatch/icons/watchlist_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1748,7 +1956,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrpDkFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.sfrview" label="SFRs" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.sfrview/icons/memory_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7J1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.sfrview" label="SFRs" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.sfrview/icons/memory_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7J1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.sfrview" label="SFRs" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.sfrview/icons/memory_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1758,7 +1970,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrxmcFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" label="Static Stack Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.stackanalyzer/icons/view_icon.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7KFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" label="Static Stack Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.stackanalyzer/icons/view_icon.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7KFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.stackanalyzer.stackanalyzer.view" label="Static Stack Analyzer" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.stackanalyzer/icons/view_icon.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1768,7 +1984,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DryNgFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.threads" label="ThreadX Thread List" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7KVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.threads" label="ThreadX Thread List" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7KVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.threads" label="ThreadX Thread List" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1778,7 +1998,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dry0kFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.semaphores" label="ThreadX Semaphores" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Klq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.semaphores" label="ThreadX Semaphores" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Klq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.semaphores" label="ThreadX Semaphores" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1788,7 +2012,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DrzboFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.mutexes" label="ThreadX Mutexes" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7K1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.mutexes" label="ThreadX Mutexes" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7K1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.mutexes" label="ThreadX Mutexes" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1798,7 +2026,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr0CsFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.queues" label="ThreadX Message Queues" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7LFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.queues" label="ThreadX Message Queues" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7LFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.queues" label="ThreadX Message Queues" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1808,7 +2040,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr0pwFqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.eventflags" label="ThreadX Event Flags" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7LVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.eventflags" label="ThreadX Event Flags" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7LVq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.eventflags" label="ThreadX Event Flags" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1818,7 +2054,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr1Q0FqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.timer" label="ThreadX Timers" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Llq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.timer" label="ThreadX Timers" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Llq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.timer" label="ThreadX Timers" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1828,7 +2068,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr1Q0VqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.blockpools" label="ThreadX Memory Block Pools" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7L1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.blockpools" label="ThreadX Memory Block Pools" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7L1q9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.blockpools" label="ThreadX Memory Block Pools" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1838,7 +2082,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr134FqNEe2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.bytepools" label="ThreadX Memory Byte Pools" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7MFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.bytepools" label="ThreadX Memory Byte Pools" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7MFq9Ee2lq88-f3golQ" elementId="com.st.stm32cube.ide.mcu.threadx.bytepools" label="ThreadX Memory Byte Pools" iconURI="platform:/plugin/com.st.stm32cube.ide.mcu.threadx/icons/debugt_obj.gif" tooltip="" category="ThreadX" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1848,7 +2096,11 @@
     <tags>categoryTag:ThreadX</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr2e8FqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.codan.internal.ui.views.ProblemDetails" label="Problem Details" iconURI="platform:/plugin/org.eclipse.cdt.codan.ui/icons/edit_bug.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7MVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.codan.internal.ui.views.ProblemDetails" label="Problem Details" iconURI="platform:/plugin/org.eclipse.cdt.codan.ui/icons/edit_bug.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7MVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.codan.internal.ui.views.ProblemDetails" label="Problem Details" iconURI="platform:/plugin/org.eclipse.cdt.codan.ui/icons/edit_bug.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1858,7 +2110,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr2e8VqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.executablesView" label="Executables" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/obj16/exec_view_obj.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Mlq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.executablesView" label="Executables" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/obj16/exec_view_obj.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Mlq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.executablesView" label="Executables" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/obj16/exec_view_obj.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1868,7 +2124,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr3GAFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.SignalsView" label="Signals" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/view16/signals_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7M1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.SignalsView" label="Signals" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/view16/signals_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7M1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.SignalsView" label="Signals" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/view16/signals_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1878,7 +2138,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr3tEFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.debuggerConsoleView" label="Debugger Console" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/view16/debugger_console_view.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7NFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.debuggerConsoleView" label="Debugger Console" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/view16/debugger_console_view.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7NFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.debuggerConsoleView" label="Debugger Console" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui/icons/view16/debugger_console_view.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1888,7 +2152,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dr4UIFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="Memory Browser" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui.memory.memorybrowser/icons/memorybrowser_view.gif" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7NVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="Memory Browser" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui.memory.memorybrowser/icons/memorybrowser_view.gif" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7NVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="Memory Browser" iconURI="platform:/plugin/org.eclipse.cdt.debug.ui.memory.memorybrowser/icons/memorybrowser_view.gif" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1898,7 +2166,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DsCsMFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view" label="Trace Control" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/tracecontrol_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Nlq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view" label="Trace Control" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/tracecontrol_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Nlq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view" label="Trace Control" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/tracecontrol_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1908,7 +2180,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DsDTQFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.osresources.view" label="OS Resources" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/osresources_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7N1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.osresources.view" label="OS Resources" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/osresources_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7N1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.osresources.view" label="OS Resources" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/osresources_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1918,7 +2194,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DsD6UFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.debugsources.view" label="Debug Sources" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/debugsources_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7OFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.debugsources.view" label="Debug Sources" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/debugsources_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7OFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.debugsources.view" label="Debug Sources" iconURI="platform:/plugin/org.eclipse.cdt.dsf.gdb.ui/icons/full/view16/debugsources_view.gif" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1928,7 +2208,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DsD6UVqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly" iconURI="platform:/plugin/org.eclipse.cdt.dsf.ui/icons/disassembly.gif" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7OVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly" iconURI="platform:/plugin/org.eclipse.cdt.dsf.ui/icons/disassembly.gif" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7OVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly" iconURI="platform:/plugin/org.eclipse.cdt.dsf.ui/icons/disassembly.gif" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1938,7 +2222,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DsVAEFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" label="Build Targets" iconURI="platform:/plugin/org.eclipse.cdt.make.ui/icons/view16/make_target.gif" tooltip="" category="Make" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Olq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" label="Build Targets" iconURI="platform:/plugin/org.eclipse.cdt.make.ui/icons/view16/make_target.gif" tooltip="" category="Make" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Olq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.make.ui.views.MakeView" label="Build Targets" iconURI="platform:/plugin/org.eclipse.cdt.make.ui/icons/view16/make_target.gif" tooltip="" category="Make" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1948,7 +2236,11 @@
     <tags>categoryTag:Make</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DshNUFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.ui.CView" label="C/C++ Projects" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/cview.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7O1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.CView" label="C/C++ Projects" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/cview.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7O1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.CView" label="C/C++ Projects" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/cview.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1958,7 +2250,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds3LkFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.ui.IndexView" label="C/C++ Index" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/types.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7PFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.IndexView" label="C/C++ Index" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/types.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7PFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.IndexView" label="C/C++ Index" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/types.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1968,7 +2264,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds3yoFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.ui.includeBrowser" label="Include Browser" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/includeBrowser.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7PVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.includeBrowser" label="Include Browser" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/includeBrowser.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7PVq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.includeBrowser" label="Include Browser" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/includeBrowser.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1978,7 +2278,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds3yoVqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.ui.callHierarchy" label="Call Hierarchy" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/call_hierarchy.gif" tooltip="" allowMultiple="true" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Plq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.callHierarchy" label="Call Hierarchy" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/call_hierarchy.gif" tooltip="" allowMultiple="true" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Plq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.callHierarchy" label="Call Hierarchy" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/call_hierarchy.gif" tooltip="" allowMultiple="true" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1988,7 +2292,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds4ZsFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.ui.typeHierarchy" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/class_hi.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7P1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.typeHierarchy" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/class_hi.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7P1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.ui.typeHierarchy" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/class_hi.gif" tooltip="" category="C/C++" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -1998,7 +2306,11 @@
     <tags>categoryTag:C/C++</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds5AwFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.texteditor.TemplatesView" label="Templates" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/templates.gif" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7QFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.texteditor.TemplatesView" label="Templates" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/templates.gif" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7QFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.texteditor.TemplatesView" label="Templates" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/view16/templates.gif" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2008,7 +2320,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds5n0FqNEe2lq88-f3golQ" elementId="org.eclipse.debug.ui.DebugView" label="Debug" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/debug_view.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7QVq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.DebugView" label="Debug" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/debug_view.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7QVq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.DebugView" label="Debug" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/debug_view.png" tooltip="" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2018,7 +2334,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds5n0VqNEe2lq88-f3golQ" elementId="org.eclipse.debug.ui.BreakpointView" label="Breakpoints" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/breakpoint_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Qlq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.BreakpointView" label="Breakpoints" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/breakpoint_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Qlq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.BreakpointView" label="Breakpoints" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/breakpoint_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2028,7 +2348,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds6O4FqNEe2lq88-f3golQ" elementId="org.eclipse.debug.ui.VariableView" label="Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Q1q9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.VariableView" label="Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Q1q9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.VariableView" label="Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2038,7 +2362,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds6O4VqNEe2lq88-f3golQ" elementId="org.eclipse.debug.ui.ExpressionView" label="Expressions" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/watchlist_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7RFq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.ExpressionView" label="Expressions" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/watchlist_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7RFq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.ExpressionView" label="Expressions" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/watchlist_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2048,7 +2376,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds618FqNEe2lq88-f3golQ" elementId="org.eclipse.debug.ui.RegisterView" label="Registers" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/register_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7RVq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.RegisterView" label="Registers" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/register_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7RVq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.RegisterView" label="Registers" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/register_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2058,7 +2390,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds7dAFqNEe2lq88-f3golQ" elementId="org.eclipse.debug.ui.ModuleView" label="Modules" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/module_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Rlq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.ModuleView" label="Modules" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/module_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Rlq9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.ModuleView" label="Modules" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/module_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2068,7 +2404,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds7dAVqNEe2lq88-f3golQ" elementId="org.eclipse.debug.ui.MemoryView" label="Memory" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/memory_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7R1q9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.MemoryView" label="Memory" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/memory_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7R1q9Ee2lq88-f3golQ" elementId="org.eclipse.debug.ui.MemoryView" label="Memory" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/memory_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2078,7 +2418,11 @@
     <tags>categoryTag:Debug</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds8EEFqNEe2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.png" tooltip="" category="Help" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7SFq9Ee2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.png" tooltip="" category="Help" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7SFq9Ee2lq88-f3golQ" elementId="org.eclipse.help.ui.HelpView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.png" tooltip="" category="Help" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2088,7 +2432,11 @@
     <tags>categoryTag:Help</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds8rIFqNEe2lq88-f3golQ" elementId="org.eclipse.remote.ui.view.connections" label="Connections" iconURI="platform:/plugin/org.eclipse.remote.ui/icons/connection.gif" tooltip="" category="Connections" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7SVq9Ee2lq88-f3golQ" elementId="org.eclipse.remote.ui.view.connections" label="Connections" iconURI="platform:/plugin/org.eclipse.remote.ui/icons/connection.gif" tooltip="" category="Connections" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7SVq9Ee2lq88-f3golQ" elementId="org.eclipse.remote.ui.view.connections" label="Connections" iconURI="platform:/plugin/org.eclipse.remote.ui/icons/connection.gif" tooltip="" category="Connections" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2098,7 +2446,11 @@
     <tags>categoryTag:Connections</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Ds9SMFqNEe2lq88-f3golQ" elementId="org.eclipse.search.SearchResultView" label="Classic Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Slq9Ee2lq88-f3golQ" elementId="org.eclipse.search.SearchResultView" label="Classic Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Slq9Ee2lq88-f3golQ" elementId="org.eclipse.search.SearchResultView" label="Classic Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2108,7 +2460,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtMiwFqNEe2lq88-f3golQ" elementId="org.eclipse.search.ui.views.SearchView" label="Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7S1q9Ee2lq88-f3golQ" elementId="org.eclipse.search.ui.views.SearchView" label="Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7S1q9Ee2lq88-f3golQ" elementId="org.eclipse.search.ui.views.SearchView" label="Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2118,7 +2474,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtNJ0FqNEe2lq88-f3golQ" elementId="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/synch_synch.png" tooltip="" allowMultiple="true" category="Version Control (Team)" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7TFq9Ee2lq88-f3golQ" elementId="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/synch_synch.png" tooltip="" allowMultiple="true" category="Version Control (Team)" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7TFq9Ee2lq88-f3golQ" elementId="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/synch_synch.png" tooltip="" allowMultiple="true" category="Version Control (Team)" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2128,7 +2488,11 @@
     <tags>categoryTag:Version Control (Team)</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dtgr0FqNEe2lq88-f3golQ" elementId="org.eclipse.team.ui.GenericHistoryView" label="History" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/history_view.png" tooltip="" allowMultiple="true" category="Version Control (Team)" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7TVq9Ee2lq88-f3golQ" elementId="org.eclipse.team.ui.GenericHistoryView" label="History" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/history_view.png" tooltip="" allowMultiple="true" category="Version Control (Team)" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7TVq9Ee2lq88-f3golQ" elementId="org.eclipse.team.ui.GenericHistoryView" label="History" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/history_view.png" tooltip="" allowMultiple="true" category="Version Control (Team)" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2138,7 +2502,11 @@
     <tags>categoryTag:Version Control (Team)</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dth58FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Tlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Tlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.internal.introview" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2148,7 +2516,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dtqc0FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.browser.view" label="Internal Web Browser" iconURI="platform:/plugin/org.eclipse.ui.browser/icons/obj16/internal_browser.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7T1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.browser.view" label="Internal Web Browser" iconURI="platform:/plugin/org.eclipse.ui.browser/icons/obj16/internal_browser.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7T1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.browser.view" label="Internal Web Browser" iconURI="platform:/plugin/org.eclipse.ui.browser/icons/obj16/internal_browser.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2158,7 +2530,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dtrq8FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.png" tooltip="" category="Help" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7UFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.png" tooltip="" category="Help" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7UFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.png" tooltip="" category="Help" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2168,7 +2544,11 @@
     <tags>categoryTag:Help</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtsSAFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7UVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7UVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.console.ConsoleView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2178,7 +2558,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtsSAVqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ProgressView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Ulq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProgressView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Ulq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProgressView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2188,7 +2572,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dts5EFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ResourceNavigator" label="Navigator (Deprecated)" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/filenav_nav.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7U1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ResourceNavigator" label="Navigator (Deprecated)" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/filenav_nav.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7U1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ResourceNavigator" label="Navigator (Deprecated)" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/filenav_nav.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2198,7 +2586,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DttgIFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7VFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7VFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.BookmarkView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2208,7 +2600,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtuHMFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7VVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7VVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.TaskList" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2218,7 +2614,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtuHMVqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Vlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Vlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ProblemView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2228,7 +2628,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtuuQFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.AllMarkersView" label="Markers" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7V1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.AllMarkersView" label="Markers" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7V1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.AllMarkersView" label="Markers" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2238,7 +2642,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DtvVUFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7WFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7WFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2248,7 +2656,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dt8wsFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7WVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7WVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.PropertySheet" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" allowMultiple="true" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2258,7 +2670,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dt9XwFqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7Wlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7Wlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.ContentOutline" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2268,7 +2684,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_Dt9-0FqNEe2lq88-f3golQ" elementId="org.eclipse.pde.runtime.LogView" label="Error Log" iconURI="platform:/plugin/org.eclipse.ui.views.log/icons/eview16/error_log.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7W1q9Ee2lq88-f3golQ" elementId="org.eclipse.pde.runtime.LogView" label="Error Log" iconURI="platform:/plugin/org.eclipse.ui.views.log/icons/eview16/error_log.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7W1q9Ee2lq88-f3golQ" elementId="org.eclipse.pde.runtime.LogView" label="Error Log" iconURI="platform:/plugin/org.eclipse.ui.views.log/icons/eview16/error_log.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2278,7 +2698,11 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <descriptors xmi:id="_DuHv0FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.views.minimap.MinimapView" label="Minimap" iconURI="platform:/plugin/org.eclipse.ui.workbench.texteditor/icons/full/eview16/minimap.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+=======
+  <descriptors xmi:id="_QIm7XFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.minimap.MinimapView" label="Minimap" iconURI="platform:/plugin/org.eclipse.ui.workbench.texteditor/icons/full/eview16/minimap.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+>>>>>>> Stashed changes
 =======
   <descriptors xmi:id="_QIm7XFq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.views.minimap.MinimapView" label="Minimap" iconURI="platform:/plugin/org.eclipse.ui.workbench.texteditor/icons/full/eview16/minimap.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
 >>>>>>> Stashed changes
@@ -2288,8 +2712,13 @@
     <tags>categoryTag:General</tags>
   </descriptors>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+=======
+  <trimContributions xmi:id="_QIp9RVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_QIp9Rlq9Ee2lq88-f3golQ" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+>>>>>>> Stashed changes
 =======
   <trimContributions xmi:id="_QIp9RVq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_QIp9Rlq9Ee2lq88-f3golQ" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
@@ -2299,7 +2728,11 @@
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+=======
+    <children xsi:type="menu:ToolControl" xmi:id="_QIp9R1q9Ee2lq88-f3golQ" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+>>>>>>> Stashed changes
 =======
     <children xsi:type="menu:ToolControl" xmi:id="_QIp9R1q9Ee2lq88-f3golQ" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
 >>>>>>> Stashed changes
@@ -2308,7 +2741,11 @@
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+=======
+    <children xsi:type="menu:ToolControl" xmi:id="_QIp9SFq9Ee2lq88-f3golQ" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+>>>>>>> Stashed changes
 =======
     <children xsi:type="menu:ToolControl" xmi:id="_QIp9SFq9Ee2lq88-f3golQ" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
 >>>>>>> Stashed changes
@@ -2317,6 +2754,7 @@
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
   </trimContributions>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   <commands xmi:id="_Coj18FqNEe2lq88-f3golQ" elementId="org.eclipse.ui.edit.text.select.pageUp" commandName="Select Page Up" description="Select to the top of the page" category="_CodIRVqNEe2lq88-f3golQ"/>
   <commands xmi:id="_Coj18VqNEe2lq88-f3golQ" elementId="org.eclipse.ui.edit.text.toggleWordWrap" commandName="Toggle Word Wrap" description="Toggle word wrap in the current text editor" category="_CodIQlqNEe2lq88-f3golQ"/>
@@ -2989,6 +3427,8 @@
   <categories xmi:id="_CodvYFqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.category.tracing" name="Tracing Commands" description="Category for Tracing Commands"/>
   <categories xmi:id="_CodvYVqNEe2lq88-f3golQ" elementId="org.eclipse.cdt.managedbuilder.ui.category.build" name="C/C++ Build" description="C/C++ Build Actions"/>
 =======
+=======
+>>>>>>> Stashed changes
   <commands xmi:id="_QIp9Vlq9Ee2lq88-f3golQ" elementId="org.eclipse.ui.edit.text.select.pageUp" commandName="Select Page Up" description="Select to the top of the page" category="_QIrLNlq9Ee2lq88-f3golQ"/>
   <commands xmi:id="_QIp9V1q9Ee2lq88-f3golQ" elementId="org.eclipse.ui.edit.text.toggleWordWrap" commandName="Toggle Word Wrap" description="Toggle word wrap in the current text editor" category="_QIrLM1q9Ee2lq88-f3golQ"/>
   <commands xmi:id="_QIp9WFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.dsf.gdb.ui.command.selectPreviousTraceRecord" commandName="Previous Trace Record" description="Select Previous Trace Record" category="_QIrLTlq9Ee2lq88-f3golQ"/>
@@ -3659,5 +4099,8 @@
   <categories xmi:id="_QIrLTlq9Ee2lq88-f3golQ" elementId="org.eclipse.core.commands.categories.autogenerated" name="Uncategorized" description="Commands that were either auto-generated or have no category"/>
   <categories xmi:id="_QIrLT1q9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.debug.ui.category.tracing" name="Tracing Commands" description="Category for Tracing Commands"/>
   <categories xmi:id="_QIrLUFq9Ee2lq88-f3golQ" elementId="org.eclipse.cdt.managedbuilder.ui.category.build" name="C/C++ Build" description="C/C++ Build Actions"/>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </application:Application>

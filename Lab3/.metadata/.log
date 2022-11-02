@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 !ENTRY org.eclipse.ui.ide 4 4 2022-11-02 21:49:57.859
 !MESSAGE Problems saving workspace
@@ -30,6 +31,8 @@ java.lang.NullPointerException
 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$3.widgetDisposed(EmbeddedSwingComposite.java:244)
 	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:127)
 =======
+=======
+>>>>>>> Stashed changes
 !SESSION 2022-11-02 15:48:52.056 -----------------------------------------------
 eclipse.buildId=Version 1.7.0
 java.version=11.0.10
@@ -203,12 +206,16 @@ java.io.IOException: Not ELF format
 	at org.eclipse.cdt.debug.ui.importexecutable.ImportExecutablePageOne.validateExe(ImportExecutablePageOne.java:662)
 	at org.eclipse.cdt.debug.ui.importexecutable.ImportExecutablePageOne$12.modifyText(ImportExecutablePageOne.java:452)
 	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:183)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1048)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 	at org.eclipse.swt.widgets.Widget.release(Widget.java:800)
 	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:921)
@@ -222,6 +229,8 @@ java.io.IOException: Not ELF format
 	at org.eclipse.swt.graphics.Device.dispose(Device.java:321)
 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
 =======
+=======
+>>>>>>> Stashed changes
 	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3100)
 	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4911)
 	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4763)
@@ -279,6 +288,9 @@ java.io.IOException: Not ELF format
 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
@@ -294,9 +306,12 @@ java.io.IOException: Not ELF format
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 !ENTRY org.eclipse.core.resources 2 10035 2022-11-02 21:49:58.360
 !MESSAGE The workspace will exit with unsaved changes in this session.
 =======
+=======
+>>>>>>> Stashed changes
 !ENTRY org.eclipse.cdt.core 4 0 2022-11-02 21:37:03.019
 !MESSAGE Error: Not ELF format
 !STACK 0
@@ -387,4 +402,7 @@ java.io.IOException: Not ELF format
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

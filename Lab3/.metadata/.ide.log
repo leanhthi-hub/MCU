@@ -737,6 +737,7 @@
 2022-11-02 16:10:49,466 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 1mS.
 2022-11-02 16:10:49,469 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 2022-11-02 21:49:58,080 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" org.eclipse.swt.SWTException: Device is disposed
 2022-11-02 21:49:58,081 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.SWT.error(SWT.java:4889)
 2022-11-02 21:49:58,083 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.SWT.error(SWT.java:4804)
@@ -757,5 +758,7 @@
 2022-11-02 21:49:58,128 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
 2022-11-02 21:49:58,133 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
 2022-11-02 21:49:58,136 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

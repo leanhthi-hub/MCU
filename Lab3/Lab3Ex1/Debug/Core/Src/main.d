@@ -24,10 +24,10 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
  ../Core/Inc/global.h ../Core/Inc/input_processing.h \
- ../Core/Inc/input_reading.h ../Core/Inc/updateClockBuffer.h \
- ../Core/Inc/global.h ../Core/Inc/Update7Seg.h ../Core/Inc/Led7segment.h \
- ../Core/Inc/main.h ../Core/Inc/timer.h ../Core/Inc/fsm.h \
- ../Core/Inc/timer.h
+ ../Core/Inc/input_reading.h ../Core/Inc/main.h \
+ ../Core/Inc/updateClockBuffer.h ../Core/Inc/global.h \
+ ../Core/Inc/Update7Seg.h ../Core/Inc/Led7segment.h ../Core/Inc/timer.h \
+ ../Core/Inc/fsm.h ../Core/Inc/timer.h ../Core/Inc/input_reading.h
 
 ../Core/Inc/main.h:
 
@@ -85,6 +85,8 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 
 ../Core/Inc/input_reading.h:
 
+../Core/Inc/main.h:
+
 ../Core/Inc/updateClockBuffer.h:
 
 ../Core/Inc/global.h:
@@ -93,10 +95,10 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 
 ../Core/Inc/Led7segment.h:
 
-../Core/Inc/main.h:
-
 ../Core/Inc/timer.h:
 
 ../Core/Inc/fsm.h:
 
 ../Core/Inc/timer.h:
+
+../Core/Inc/input_reading.h:

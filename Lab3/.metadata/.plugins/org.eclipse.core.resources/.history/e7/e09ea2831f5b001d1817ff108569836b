@@ -1,0 +1,63 @@
+/*
+ * fsm3.c
+ *
+ *  Created on: Nov 3, 2022
+ *      Author: Leanhthi
+ */
+
+#include "fsm.h"
+
+void fsm_automatic_run3(){
+	int temp;
+	switch (status3	) {
+		case RUNNING:
+			if( timer0_flag == 1) {
+					  timer--;
+					  timer2--;
+					  setTimer0 (10) ;
+				  }
+			if(button_flag[0]==1){
+				button_flag[0]=0;
+				status1=Waiting;
+				status2=Waiting;
+				status3=MAN_RED;
+				temp=RED_TIME;
+			}
+			break;
+
+		case INIT:
+
+
+			break;
+		case MAN_RED:
+
+			timer1=temp%100;
+			timer=01;
+			if(button_flag[0]==1){
+				button_flag[0]=0;
+				temp=GREEN_TIME;
+				status3=MAN_GREEN;
+			}
+			if(button_flag[0]==1){
+			}
+			if(button_flag[1]==1){
+			}
+			if(button_flag[2]==1){
+			}
+
+
+
+			break;
+		case MAN_GREEN:
+
+
+			break;
+		case MAN_YELLOW:
+
+
+			break;
+
+		default:
+			break;
+	}
+}

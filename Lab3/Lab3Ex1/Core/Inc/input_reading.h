@@ -8,10 +8,14 @@
 #ifndef INC_INPUT_READING_H_
 #define INC_INPUT_READING_H_
 
+#define NO_OF_BUTTONS		4
 void	button_reading (void);
-unsigned charis_button_pressed (unsignedcharindex );
-unsigned charis_button_pressed_1s (unsignedcharindex );
+extern int button_flag[NO_OF_BUTTONS];
+void button_reading();
+unsigned char is_button_pressed(unsigned char index);
 
+#include "main.h"
+//unsigned char is_button_pressed_1s(unsigned char index);
 
 
 #endif /* INC_INPUT_READING_H_ */

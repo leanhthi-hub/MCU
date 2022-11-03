@@ -8,7 +8,6 @@
 #include "fsm.h"
 
 void fsm_automatic_run3(){
-	int temp;
 	switch (status3	) {
 		case RUNNING:
 			if( timer0_flag == 1) {
@@ -21,7 +20,7 @@ void fsm_automatic_run3(){
 				status1=Waiting;
 				status2=Waiting;
 				status3=MAN_RED;
-				temp=RED_TIME;
+				timer2=RED_TIME/10;
 			}
 			break;
 
@@ -36,49 +35,49 @@ void fsm_automatic_run3(){
 		case MAN_RED:
 			toogleRed();
 			toogleRed1();
-			if(temp>99*100)temp=0;
-			timer2=temp%100;
+			if(timer2>99)timer2=0;
+
 			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
-				temp=GREEN_TIME;
+				timer2=GREEN_TIME/10;
 				status3=MAN_GREEN;
 			}
 			if(button_flag[1]==1){
 				button_flag[1]=0;
-				temp+=100;
+				timer2++;
 			}
 			if(button_flag[2]==1){
-				button_flag[1]=0;
-				temp-=100;
+				button_flag[2]=0;
+				timer2--;
 			}
 			if(button_flag[3]==1){
-				button_flag[1]=0;
-				RED_TIME=temp;
+				button_flag[3]=0;
+				RED_TIME=timer2*10;
 			}
 			break;
 		case MAN_GREEN:
 			toogleGreen();
 			toogleGreen1();
-			if(temp>99*100)temp=0;
-			timer2=temp%100;
+			if(timer2>99)timer2=0;
+
 			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
-				temp=YELLOW_TIME;
+				timer2=YELLOW_TIME/10;
 				status3=MAN_YELLOW;
 			}
 			if(button_flag[1]==1){
 				button_flag[1]=0;
-				temp+=100;
+				timer2++;
 			}
 			if(button_flag[2]==1){
-				button_flag[1]=0;
-				temp-=100;
+				button_flag[2]=0;
+				timer2--;
 			}
 			if(button_flag[3]==1){
-				button_flag[1]=0;
-				GREEN_TIME=temp;
+				button_flag[3]=0;
+				YELLOW_TIME=timer2*10;
 			}
 
 
@@ -87,25 +86,25 @@ void fsm_automatic_run3(){
 		case MAN_YELLOW:
 			toogleYellow();
 			toogleYellow1();
-			if(temp>99*100)temp=0;
-			timer2=temp%100;
+			if(timer2>99)timer2=0;
+
 			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
-				temp=RED_TIME;
+
 				status3=INIT;
 			}
 			if(button_flag[1]==1){
 				button_flag[1]=0;
-				temp+=100;
+				timer2++;
 			}
 			if(button_flag[2]==1){
-				button_flag[1]=0;
-				temp-=100;
+				button_flag[2]=0;
+				timer2--;
 			}
 			if(button_flag[3]==1){
-				button_flag[1]=0;
-				YELLOW_TIME=temp;
+				button_flag[3]=0;
+				YELLOW_TIME=timer2*10;
 			}
 
 

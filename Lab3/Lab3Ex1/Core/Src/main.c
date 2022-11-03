@@ -34,10 +34,10 @@
 int status1 = INIT;
 int status2 = INIT;
 int status3 = RUNNING;
-int RED_TIME=50;
-int timer=5;
-int GREEN_TIME=60;
-int timer2=6;
+int RED_TIME=100;
+int timer=10;
+int GREEN_TIME=70;
+int timer2=7;
 int YELLOW_TIME=30;
 /* USER CODE END Includes */
 
@@ -116,6 +116,7 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   setTimer0 (1) ;
+  setTimer3 (10) ;
 
   while (1)
   {
@@ -126,7 +127,14 @@ int main(void)
 	 fsm_automatic_run1();
 	 fsm_automatic_run2();
 	 fsm_automatic_run3();
-	 button_reading();
+	 if (timer3_flag==1){
+		 timer3_flag=0;
+		 updateClockBuffer () ;
+		 update7SEG(index_led++);
+
+		 setTimer3(20);
+	 }
+
 //	 fsm_for_input_processing () ;
 
 
@@ -256,8 +264,8 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : BUTTON_1_Pin BUTTON_2_Pin BUTTON_4_Pin BUTTON_3_Pin */
-  GPIO_InitStruct.Pin = BUTTON_1_Pin|BUTTON_2_Pin|BUTTON_4_Pin|BUTTON_3_Pin;
+  /*Configure GPIO pins : BUTTON_1_Pin BUTTON_2_Pin BUTTON_3_Pin BUTTON_4_Pin */
+  GPIO_InitStruct.Pin = BUTTON_1_Pin|BUTTON_2_Pin|BUTTON_3_Pin|BUTTON_4_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
   GPIO_InitStruct.Pull = GPIO_PULLUP;
   HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
@@ -271,8 +279,11 @@ void HAL_TIM_PeriodElapsedCallback ( TIM_HandleTypeDef * htim )
 		timerRun0();
 		timerRun1();
 		timerRun2();
-		updateClockBuffer () ;
-		update7SEG(index_led++);
+		timerRun3();
+		button_reading();
+
+
+
 
 //		button_reading () ;
 	}

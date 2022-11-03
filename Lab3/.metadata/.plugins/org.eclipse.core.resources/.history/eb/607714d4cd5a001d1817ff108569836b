@@ -1,0 +1,75 @@
+/*
+ * fsm.c
+ *
+ *  Created on: Nov 2, 2022
+ *      Author: Leanhthi
+ */
+#include "fsm.h"
+
+//void toogleRed1(){
+//	HAL_GPIO_WritePin(GPIOA, LED1_Pin, GPIO_PIN_SET);
+//	HAL_GPIO_WritePin(GPIOA, LED2_Pin, GPIO_PIN_RESET);
+//}
+//void toogleGreen1(){
+//	HAL_GPIO_WritePin(GPIOA, LED1_Pin, GPIO_PIN_RESET);
+//	HAL_GPIO_WritePin(GPIOA, LED2_Pin, GPIO_PIN_SET);
+//}
+//void toogleYellow1(){
+//	HAL_GPIO_WritePin(GPIOA, LED1_Pin|LED2_Pin, GPIO_PIN_SET);
+//}
+
+void fsm_automatic_run(){
+	switch (status1	) {
+		case INIT:
+			status1 = AUTO_RED;
+			setTimer1(RED_TIME);
+			break;
+		case AUTO_RED:
+//			toogleRed();
+			if(timer1_flag==1){
+				status1 = AUTO_GREEN;
+				setTimer1(GREEN_TIME);
+				timer=GREEN_TIME/10;
+			}
+//			if (button1_flag == 1){
+//				button1_flag = 0;
+//				toogleGreen();
+//				status = MAN_GREEN;
+//				setTimer1(GREEN_TIME);
+//			}
+
+			break;
+		case AUTO_GREEN:
+//			toogleGreen();
+			if(timer1_flag==1){
+				status1 = AUTO_YELLOW;
+				setTimer1(YELLOW_TIME);
+				timer=YELLOW_TIME/10;
+			}
+//			if (button1_flag == 1){
+//				button1_flag = 0;
+//				status = MAN_GREEN;
+//				setTimer1(1000);
+//			}
+
+			break;
+		case AUTO_YELLOW:
+//			toogleYellow();
+			if(timer1_flag==1){
+				status1 = AUTO_RED;
+				setTimer1(RED_TIME);
+				timer=RED_TIME/10;
+			}
+//			if (button1_flag == 1){
+//				button1_flag = 0;
+//				status = MAN_YELLOW;
+//				setTimer1(1000);
+//			}
+
+
+			break;
+		default:
+			break;
+	}
+}
+

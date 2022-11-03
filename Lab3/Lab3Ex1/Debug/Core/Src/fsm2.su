@@ -1,0 +1,4 @@
+fsm2.c:9:6:toogleRed1	8	static
+fsm2.c:14:6:toogleGreen1	8	static
+fsm2.c:19:6:toogleYellow1	8	static
+fsm2.c:25:6:fsm_automatic_run2	8	static

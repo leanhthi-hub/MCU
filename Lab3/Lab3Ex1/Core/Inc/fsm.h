@@ -9,12 +9,13 @@
 #define INC_FSM_H_
 
 
-#ifndef INC_FSM_MANUAL_H_
-#define INC_FSM_MANUAL_H_
 
 #include "global.h"
-
-void fsm_manual_run();
+#include "timer.h"
+#include "main.h"
+void fsm_automatic_run1();
+void fsm_automatic_run2();
+void fsm_automatic_run3();
 
 
 

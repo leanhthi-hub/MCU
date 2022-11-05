@@ -16,8 +16,8 @@
 #define MAX 9
 #define MIN 0
 
-
-
+#define TIMEOUT 10
+#define EVERYSEC 100
 
 extern int timer;
 

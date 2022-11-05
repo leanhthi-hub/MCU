@@ -27,10 +27,7 @@ void subkeyProcess(unsigned char i)
 	button_flag[i] = 1;
 }
 
-void subKeyHoldingProcess(unsigned char i)
-{
 
-}
 void button_reading()
 {
 	for(unsigned char i = 0; i < NO_OF_BUTTONS; i++)

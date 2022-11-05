@@ -32,7 +32,7 @@
 
 
 int status = RUNNING;
-int timer=MAX;
+int timer=MAX+1;
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/

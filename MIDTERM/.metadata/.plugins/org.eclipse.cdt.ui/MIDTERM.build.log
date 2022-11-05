@@ -1,10 +1,23 @@
-10:06:21 **** Incremental Build of configuration Debug for project MIDTERM ****
+10:31:32 **** Incremental Build of configuration Debug for project MIDTERM ****
 make -j8 all 
+arm-none-eabi-gcc "../Core/Src/fsm3.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/fsm3.d" -MT"Core/Src/fsm3.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/fsm3.o"
+arm-none-eabi-gcc -o "MIDTERM.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\taitr\OneDrive\Documents\MCU\MIDTERM\MIDTERM\STM32F103C6UX_FLASH.ld" --specs=nosys.specs -Wl,-Map="MIDTERM.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: MIDTERM.elf
+ 
 arm-none-eabi-size   MIDTERM.elf 
+arm-none-eabi-objdump -h -S  MIDTERM.elf  > "MIDTERM.list"
+arm-none-eabi-objcopy  -O ihex  MIDTERM.elf  "MIDTERM.hex"
+arm-none-eabi-objcopy  -O binary  MIDTERM.elf  "MIDTERM.bin"
    text	   data	    bss	    dec	    hex	filename
-   8812	     28	   1724	  10564	   2944	MIDTERM.elf
+   8860	     32	   1728	  10620	   297c	MIDTERM.elf
 Finished building: default.size.stdout
  
+Finished building: MIDTERM.hex
+Finished building: MIDTERM.bin
+ 
+ 
+Finished building: MIDTERM.list
+ 
 
-10:06:21 Build Finished. 0 errors, 0 warnings. (took 388ms)
+10:31:33 Build Finished. 0 errors, 0 warnings. (took 1s.80ms)
 

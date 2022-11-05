@@ -56,7 +56,7 @@ void button_reading()
 				buttonBuffer[i] = debounceButtonBuffer2[i];
 				if(buttonBuffer[i] == BUTTON_IS_PRESSED)
 				{
-					counterForButtonPress[i] = DURATION_FOR_HOLDING;//HOLDING DURATION is 3sec
+					counterForButtonPress[i] = DURATION_FOR_HOLDING;
 					subkeyProcess(i);
 				}
 			}
@@ -67,7 +67,7 @@ void button_reading()
 				{
 					if(buttonBuffer[i]== BUTTON_IS_PRESSED)
 					{
-						counterForButtonPress[i] = DURATION_FOR_AUTO_DECREASING;//KEEP HOLDING in 1 sec
+						counterForButtonPress[i] = DURATION_FOR_AUTO_DECREASING;
 						subkeyProcess(i);
 					}
 					//buttonBuffer[i] = BUTTON_IS_RELEASED;

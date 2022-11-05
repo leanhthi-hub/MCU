@@ -54,16 +54,12 @@ void fsm_simple_buttons_run(){
 			if(button_flag[1]==1){//DEC
 				temp=0;
 				button_flag[1]=0;
-				// When first time holding counterForButtonPress=3s
-				// after that, counterForButtonPress=1s
 				timer++;
 
 			}
 			if(button_flag[2]==1){//INC
 				temp=0;
 				button_flag[2]=0;
-				// When first time holding counterForButtonPress=3s
-				// after that, counterForButtonPress=1s
 				timer--;
 			}
 

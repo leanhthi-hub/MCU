@@ -8,7 +8,6 @@
 #ifndef INC_LED7SEGMENT_H_
 #define INC_LED7SEGMENT_H_
 
-#define LED7PORT GPIOB
 void displaySeg7(int count_time);
 
 

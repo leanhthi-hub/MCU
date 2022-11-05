@@ -1,7 +1,6 @@
-10:16:05 **** Incremental Build of configuration Debug for project Lab3Ex1 ****
+08:26:55 **** Incremental Build of configuration Debug for project Lab3Ex1 ****
 make -j8 all 
-arm-none-eabi-gcc "../Core/Src/input_reading.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/input_reading.d" -MT"Core/Src/input_reading.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/input_reading.o"
-arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc "../Core/Src/Led7segment.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/Led7segment.d" -MT"Core/Src/Led7segment.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/Led7segment.o"
 arm-none-eabi-gcc -o "Lab3Ex1.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\STM32F103C6UX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Lab3Ex1.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 Finished building target: Lab3Ex1.elf
  
@@ -13,12 +12,12 @@ arm-none-eabi-objcopy  -O binary  Lab3Ex1.elf  "Lab3Ex1.bin"
   10540	     52	   1740	  12332	   302c	Lab3Ex1.elf
 Finished building: default.size.stdout
  
-Finished building: Lab3Ex1.hex
 Finished building: Lab3Ex1.bin
+Finished building: Lab3Ex1.hex
  
  
 Finished building: Lab3Ex1.list
  
 
-10:16:06 Build Finished. 0 errors, 0 warnings. (took 1s.206ms)
+08:27:01 Build Finished. 0 errors, 0 warnings. (took 5s.765ms)
 

@@ -1290,3 +1290,109 @@
 2022-11-03 08:15:14,082 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
 2022-11-03 08:15:14,149 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] [Fatal Error] :1:7: The string "--" is not permitted within comments.
 2022-11-03 08:15:14,150 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-11-03 09:14:08,968 [INFO] Gpio:254 - dependency for GPIO []
+2022-11-03 09:17:52,246 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 808324512 Bytes (1054867456)
+2022-11-03 09:17:53,841 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 832130672 Bytes (1054867456)
+2022-11-03 09:17:58,600 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 898275512 Bytes (1054867456)
+2022-11-03 09:17:59,144 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-11-03 09:17:59,146 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-11-03 09:17:59,146 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-11-03 09:17:59,146 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-11-03 09:17:59,146 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8F1
+2022-11-03 09:17:59,146 [INFO] CodeGenerator:663 - code generatio: config db path: D:\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2022-11-03 09:17:59,682 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\license.tmp_save
+2022-11-03 09:17:59,889 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\license.tmp
+2022-11-03 09:18:00,134 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\gpio.tmp_save
+2022-11-03 09:18:00,269 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\gpio.tmp
+2022-11-03 09:18:00,489 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_it.c_save
+2022-11-03 09:18:00,699 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_it.c
+2022-11-03 09:18:00,730 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_it.h_save
+2022-11-03 09:18:00,875 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_it.h
+2022-11-03 09:18:00,925 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-03 09:18:01,150 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_hal_msp.c
+2022-11-03 09:18:01,174 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\system.tmp_save
+2022-11-03 09:18:01,309 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\system.tmp
+2022-11-03 09:18:01,404 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-03 09:18:01,558 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-03 09:18:01,577 [WARN] IPConfigManager:3148 - IP not found : TIM
+2022-11-03 09:18:01,579 [WARN] CodeGenerator:3268 - IP not found : null
+2022-11-03 09:18:01,615 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\main.h_save
+2022-11-03 09:18:01,753 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\main.h
+2022-11-03 09:18:01,780 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\main.c_save
+2022-11-03 09:18:01,986 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\main.c
+2022-11-03 09:18:03,174 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 291mS.
+2022-11-03 09:18:03,179 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2022-11-03 09:18:03,822 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2022-11-03 09:18:06,300 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 3121mS.
+2022-11-03 09:18:06,301 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2022-11-03 09:18:06,306 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2022-11-03 09:47:05,695 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 802643472 Bytes (1066401792)
+2022-11-03 09:47:06,888 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 823731288 Bytes (1066401792)
+2022-11-03 09:47:08,399 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 854789672 Bytes (1066401792)
+2022-11-03 09:47:09,199 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-11-03 09:47:09,199 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-11-03 09:47:09,200 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-11-03 09:47:09,200 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-11-03 09:47:09,200 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8F1
+2022-11-03 09:47:09,201 [INFO] CodeGenerator:663 - code generatio: config db path: D:\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2022-11-03 09:47:09,562 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\license.tmp_save
+2022-11-03 09:47:09,892 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\license.tmp
+2022-11-03 09:47:09,942 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\gpio.tmp_save
+2022-11-03 09:47:10,083 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\gpio.tmp
+2022-11-03 09:47:10,194 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_it.c_save
+2022-11-03 09:47:10,416 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_it.c
+2022-11-03 09:47:10,423 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_it.h_save
+2022-11-03 09:47:10,572 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_it.h
+2022-11-03 09:47:10,604 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-03 09:47:10,871 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_hal_msp.c
+2022-11-03 09:47:10,876 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\system.tmp_save
+2022-11-03 09:47:10,999 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\system.tmp
+2022-11-03 09:47:11,020 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-03 09:47:11,221 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-03 09:47:11,254 [WARN] IPConfigManager:3148 - IP not found : TIM
+2022-11-03 09:47:11,254 [WARN] CodeGenerator:3268 - IP not found : null
+2022-11-03 09:47:11,285 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\main.h_save
+2022-11-03 09:47:11,501 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\main.h
+2022-11-03 09:47:11,514 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\main.c_save
+2022-11-03 09:47:11,785 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\main.c
+2022-11-03 09:47:13,037 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 232mS.
+2022-11-03 09:47:13,042 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2022-11-03 09:47:13,910 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2022-11-03 09:47:17,423 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 4381mS.
+2022-11-03 09:47:17,426 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 2mS.
+2022-11-03 09:47:17,440 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2022-11-03 10:05:29,686 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 847084952 Bytes (1073741824)
+2022-11-03 10:05:31,369 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 868057440 Bytes (1073741824)
+2022-11-03 10:05:32,748 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 898733024 Bytes (1073741824)
+2022-11-03 10:05:33,210 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-11-03 10:05:33,212 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-11-03 10:05:33,212 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-11-03 10:05:33,212 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-11-03 10:05:33,212 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8F1
+2022-11-03 10:05:33,213 [INFO] CodeGenerator:663 - code generatio: config db path: D:\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2022-11-03 10:05:33,588 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\license.tmp_save
+2022-11-03 10:05:33,725 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\license.tmp
+2022-11-03 10:05:33,793 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\gpio.tmp_save
+2022-11-03 10:05:34,207 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\gpio.tmp
+2022-11-03 10:05:34,374 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_it.c_save
+2022-11-03 10:05:34,572 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_it.c
+2022-11-03 10:05:34,578 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_it.h_save
+2022-11-03 10:05:34,709 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_it.h
+2022-11-03 10:05:34,727 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_hal_msp.c_save
+2022-11-03 10:05:34,916 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\stm32f1xx_hal_msp.c
+2022-11-03 10:05:34,922 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\system.tmp_save
+2022-11-03 10:05:35,030 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\MXTmpFiles\system.tmp
+2022-11-03 10:05:35,050 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_hal_conf.h_save
+2022-11-03 10:05:35,230 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\stm32f1xx_hal_conf.h
+2022-11-03 10:05:35,258 [WARN] IPConfigManager:3148 - IP not found : TIM
+2022-11-03 10:05:35,259 [WARN] CodeGenerator:3268 - IP not found : null
+2022-11-03 10:05:35,274 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\main.h_save
+2022-11-03 10:05:35,421 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Inc\main.h
+2022-11-03 10:05:35,433 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\main.c_save
+2022-11-03 10:05:35,646 [INFO] CodeEngine:257 - Generated code: C:\Users\taitr\OneDrive\Documents\MCU\Lab3\Lab3Ex1\Core\Src\main.c
+2022-11-03 10:05:36,830 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 178mS.
+2022-11-03 10:05:36,835 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2022-11-03 10:05:37,518 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2022-11-03 10:05:39,793 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2958mS.
+2022-11-03 10:05:39,794 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2022-11-03 10:05:39,798 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.

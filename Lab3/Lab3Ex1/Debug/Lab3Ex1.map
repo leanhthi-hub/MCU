@@ -71,9 +71,11 @@ Discarded input sections
  .group         0x0000000000000000        0xc ./Core/Src/Led7segment.o
  .group         0x0000000000000000        0xc ./Core/Src/Led7segment.o
  .group         0x0000000000000000        0xc ./Core/Src/Led7segment.o
+ .group         0x0000000000000000        0xc ./Core/Src/Led7segment.o
  .text          0x0000000000000000        0x0 ./Core/Src/Led7segment.o
  .data          0x0000000000000000        0x0 ./Core/Src/Led7segment.o
  .bss           0x0000000000000000        0x0 ./Core/Src/Led7segment.o
+ .group         0x0000000000000000        0xc ./Core/Src/Update7Seg.o
  .group         0x0000000000000000        0xc ./Core/Src/Update7Seg.o
  .group         0x0000000000000000        0xc ./Core/Src/Update7Seg.o
  .group         0x0000000000000000        0xc ./Core/Src/Update7Seg.o
@@ -114,6 +116,7 @@ Discarded input sections
  .data          0x0000000000000000        0x0 ./Core/Src/Update7Seg.o
  .bss           0x0000000000000000        0x0 ./Core/Src/Update7Seg.o
  .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Update7Seg.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Update7Seg.o
  .debug_macro   0x0000000000000000      0x215 ./Core/Src/Update7Seg.o
  .debug_macro   0x0000000000000000       0x2e ./Core/Src/Update7Seg.o
  .debug_macro   0x0000000000000000       0x22 ./Core/Src/Update7Seg.o
@@ -609,6 +612,7 @@ Discarded input sections
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
+ .group         0x0000000000000000        0xc ./Core/Src/main.o
  .text          0x0000000000000000        0x0 ./Core/Src/main.o
  .data          0x0000000000000000        0x0 ./Core/Src/main.o
  .bss           0x0000000000000000        0x0 ./Core/Src/main.o
@@ -651,6 +655,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x69 ./Core/Src/main.o
  .debug_macro   0x0000000000000000       0x34 ./Core/Src/main.o
  .debug_macro   0x0000000000000000       0x40 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/main.o
  .debug_macro   0x0000000000000000       0x10 ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
@@ -3424,63 +3429,64 @@ LOAD d:/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externa
  .debug_ranges  0x0000000000000468      0x3c0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
  .debug_ranges  0x0000000000000828      0x158 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
-.debug_macro    0x0000000000000000    0x16d70
- .debug_macro   0x0000000000000000      0x1b1 ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000001b1      0xa9c ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000000c4d      0x215 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000000e62       0x2e ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000000e90       0x22 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000000eb2       0x22 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000000ed4       0x8e ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000000f62       0x51 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000000fb3      0x103 ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000010b6       0x6a ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000001120      0x1df ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000012ff       0x1c ./Core/Src/Led7segment.o
- .debug_macro   0x000000000000131b       0x22 ./Core/Src/Led7segment.o
- .debug_macro   0x000000000000133d       0xc3 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000001400      0xd23 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000002123     0xde75 ./Core/Src/Led7segment.o
- .debug_macro   0x000000000000ff98       0x6d ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000010005     0x3468 ./Core/Src/Led7segment.o
- .debug_macro   0x000000000001346d      0x174 ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000135e1       0x5c ./Core/Src/Led7segment.o
- .debug_macro   0x000000000001363d      0x5be ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000013bfb      0x1b7 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000013db2      0x1cb ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000013f7d      0x114 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000014091      0x1b2 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000014243       0x27 ./Core/Src/Led7segment.o
- .debug_macro   0x000000000001426a      0x12f ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000014399      0x1bc ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000014555       0x34 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000014589       0x3c ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000145c5       0x57 ./Core/Src/Led7segment.o
- .debug_macro   0x000000000001461c       0x88 ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000146a4      0x183 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000014827      0x141 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000014968      0x8d1 ./Core/Src/Led7segment.o
- .debug_macro   0x0000000000015239       0x69 ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000152a2       0x34 ./Core/Src/Led7segment.o
- .debug_macro   0x00000000000152d6      0x1bb ./Core/Src/Update7Seg.o
- .debug_macro   0x0000000000015491      0x1cd ./Core/Src/fsm1.o
- .debug_macro   0x000000000001565e       0x40 ./Core/Src/fsm1.o
- .debug_macro   0x000000000001569e       0x10 ./Core/Src/fsm1.o
- .debug_macro   0x00000000000156ae      0x1cd ./Core/Src/fsm2.o
- .debug_macro   0x000000000001587b      0x1cd ./Core/Src/fsm3.o
- .debug_macro   0x0000000000015a48      0x1c2 ./Core/Src/input_reading.o
- .debug_macro   0x0000000000015c0a      0x205 ./Core/Src/main.o
- .debug_macro   0x0000000000015e0f      0x1a7 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_macro   0x0000000000015fb6      0x1b1 ./Core/Src/stm32f1xx_it.o
- .debug_macro   0x0000000000016167      0x198 ./Core/Src/system_stm32f1xx.o
- .debug_macro   0x00000000000162ff       0x1b ./Core/Src/timer.o
- .debug_macro   0x000000000001631a       0x24 ./Core/Src/updateClockBuffer.o
- .debug_macro   0x000000000001633e      0x1bc ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_macro   0x00000000000164fa      0x198 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_macro   0x0000000000016692      0x203 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_macro   0x0000000000016895      0x1aa ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
- .debug_macro   0x0000000000016a3f      0x199 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
- .debug_macro   0x0000000000016bd8      0x198 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+.debug_macro    0x0000000000000000    0x16d7d
+ .debug_macro   0x0000000000000000      0x1b0 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000001b0      0xa9c ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000000c4c      0x215 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000000e61       0x2e ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000000e8f       0x22 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000000eb1       0x22 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000000ed3       0x8e ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000000f61       0x51 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000000fb2      0x103 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000010b5       0x6a ./Core/Src/Led7segment.o
+ .debug_macro   0x000000000000111f      0x1df ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000012fe       0x1c ./Core/Src/Led7segment.o
+ .debug_macro   0x000000000000131a       0x22 ./Core/Src/Led7segment.o
+ .debug_macro   0x000000000000133c       0xc3 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000013ff      0xd23 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000002122     0xde75 ./Core/Src/Led7segment.o
+ .debug_macro   0x000000000000ff97       0x6d ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000010004     0x3468 ./Core/Src/Led7segment.o
+ .debug_macro   0x000000000001346c      0x174 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000135e0       0x5c ./Core/Src/Led7segment.o
+ .debug_macro   0x000000000001363c      0x5be ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000013bfa      0x1b7 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000013db1      0x1cb ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000013f7c      0x114 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014090      0x1b2 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014242       0x27 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014269      0x12f ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014398      0x1bc ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014554       0x34 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014588       0x3c ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000145c4       0x57 ./Core/Src/Led7segment.o
+ .debug_macro   0x000000000001461b       0x88 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000146a3      0x183 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014826      0x141 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000014967      0x8d1 ./Core/Src/Led7segment.o
+ .debug_macro   0x0000000000015238       0x69 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000152a1       0x34 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000152d5       0x10 ./Core/Src/Led7segment.o
+ .debug_macro   0x00000000000152e5      0x1ba ./Core/Src/Update7Seg.o
+ .debug_macro   0x000000000001549f      0x1cd ./Core/Src/fsm1.o
+ .debug_macro   0x000000000001566c       0x40 ./Core/Src/fsm1.o
+ .debug_macro   0x00000000000156ac       0x10 ./Core/Src/fsm1.o
+ .debug_macro   0x00000000000156bc      0x1cd ./Core/Src/fsm2.o
+ .debug_macro   0x0000000000015889      0x1cd ./Core/Src/fsm3.o
+ .debug_macro   0x0000000000015a56      0x1c2 ./Core/Src/input_reading.o
+ .debug_macro   0x0000000000015c18      0x204 ./Core/Src/main.o
+ .debug_macro   0x0000000000015e1c      0x1a7 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_macro   0x0000000000015fc3      0x1b1 ./Core/Src/stm32f1xx_it.o
+ .debug_macro   0x0000000000016174      0x198 ./Core/Src/system_stm32f1xx.o
+ .debug_macro   0x000000000001630c       0x1b ./Core/Src/timer.o
+ .debug_macro   0x0000000000016327       0x24 ./Core/Src/updateClockBuffer.o
+ .debug_macro   0x000000000001634b      0x1bc ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_macro   0x0000000000016507      0x198 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_macro   0x000000000001669f      0x203 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_macro   0x00000000000168a2      0x1aa ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_macro   0x0000000000016a4c      0x199 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+ .debug_macro   0x0000000000016be5      0x198 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
 .debug_line     0x0000000000000000     0xbe9b
  .debug_line    0x0000000000000000      0x6ba ./Core/Src/Led7segment.o
@@ -3503,44 +3509,44 @@ LOAD d:/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externa
  .debug_line    0x000000000000743f     0x3262 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
  .debug_line    0x000000000000a6a1     0x17fa ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
 
-.debug_str      0x0000000000000000    0x82020
- .debug_str     0x0000000000000000    0x7f278 ./Core/Src/Led7segment.o
-                                      0x7f5af (size before relaxing)
- .debug_str     0x000000000007f278       0x5a ./Core/Src/Update7Seg.o
-                                      0x7f5de (size before relaxing)
- .debug_str     0x000000000007f2d2      0x18a ./Core/Src/fsm1.o
+.debug_str      0x0000000000000000    0x8202f
+ .debug_str     0x0000000000000000    0x7f287 ./Core/Src/Led7segment.o
+                                      0x7f5be (size before relaxing)
+ .debug_str     0x000000000007f287       0x5a ./Core/Src/Update7Seg.o
+                                      0x7f5ed (size before relaxing)
+ .debug_str     0x000000000007f2e1      0x18a ./Core/Src/fsm1.o
                                       0x7f710 (size before relaxing)
- .debug_str     0x000000000007f45c       0x4c ./Core/Src/fsm2.o
+ .debug_str     0x000000000007f46b       0x4c ./Core/Src/fsm2.o
                                       0x7f713 (size before relaxing)
- .debug_str     0x000000000007f4a8       0x26 ./Core/Src/fsm3.o
+ .debug_str     0x000000000007f4b7       0x26 ./Core/Src/fsm3.o
                                       0x7f6a6 (size before relaxing)
- .debug_str     0x000000000007f4ce      0x122 ./Core/Src/input_reading.o
+ .debug_str     0x000000000007f4dd      0x122 ./Core/Src/input_reading.o
                                       0x7f6e0 (size before relaxing)
- .debug_str     0x000000000007f5f0      0x721 ./Core/Src/main.o
-                                      0x7fedc (size before relaxing)
- .debug_str     0x000000000007fd11      0x2ba ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_str     0x000000000007f5ff      0x721 ./Core/Src/main.o
+                                      0x7feeb (size before relaxing)
+ .debug_str     0x000000000007fd20      0x2ba ./Core/Src/stm32f1xx_hal_msp.o
                                       0x7fd64 (size before relaxing)
- .debug_str     0x000000000007ffcb       0xcd ./Core/Src/stm32f1xx_it.o
+ .debug_str     0x000000000007ffda       0xcd ./Core/Src/stm32f1xx_it.o
                                       0x7fac6 (size before relaxing)
- .debug_str     0x0000000000080098       0x52 ./Core/Src/system_stm32f1xx.o
+ .debug_str     0x00000000000800a7       0x52 ./Core/Src/system_stm32f1xx.o
                                       0x7f504 (size before relaxing)
- .debug_str     0x00000000000800ea       0xa9 ./Core/Src/timer.o
+ .debug_str     0x00000000000800f9       0xa9 ./Core/Src/timer.o
                                        0x2e43 (size before relaxing)
- .debug_str     0x0000000000080193       0x32 ./Core/Src/updateClockBuffer.o
+ .debug_str     0x00000000000801a2       0x32 ./Core/Src/updateClockBuffer.o
                                        0x2e78 (size before relaxing)
- .debug_str     0x00000000000801c5       0x36 ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_str     0x00000000000801d4       0x36 ./Core/Startup/startup_stm32f103c6ux.o
                                          0x6f (size before relaxing)
- .debug_str     0x00000000000801fb      0x304 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_str     0x000000000008020a      0x304 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
                                       0x7fb5b (size before relaxing)
- .debug_str     0x00000000000804ff      0x300 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_str     0x000000000008050e      0x300 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
                                       0x7fb63 (size before relaxing)
- .debug_str     0x00000000000807ff      0x316 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_str     0x000000000008080e      0x316 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
                                       0x7f8c8 (size before relaxing)
- .debug_str     0x0000000000080b15      0x24f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_str     0x0000000000080b24      0x24f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
                                       0x7f901 (size before relaxing)
- .debug_str     0x0000000000080d64      0xdce ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
+ .debug_str     0x0000000000080d73      0xdce ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o
                                       0x808d3 (size before relaxing)
- .debug_str     0x0000000000081b32      0x4ee ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
+ .debug_str     0x0000000000081b41      0x4ee ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o
                                       0x80084 (size before relaxing)
 
 .comment        0x0000000000000000       0x53

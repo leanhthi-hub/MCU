@@ -132,7 +132,7 @@ int main(void)
 		 updateClockBuffer () ;
 		 update7SEG(index_led++);
 
-		 setTimer3(5);
+		 setTimer3(20);
 	 }
 
 //	 fsm_for_input_processing () ;

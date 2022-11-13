@@ -1,0 +1,13 @@
+/*
+ * scheduler.c
+ *
+ *  Created on: Nov 11, 2022
+ *      Author: Leanhthi
+ */
+
+
+#include "scheduler.h"
+
+void SCH_Init(void){
+	current_index_task=0;
+}

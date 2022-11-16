@@ -40,7 +40,7 @@ void fsm_automatic_run3(){
 			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
-				timer2=GREEN_TIME/100;
+				timer2=GREEN_TIME/10;
 				status3=MAN_GREEN;
 			}
 			if(button_flag[1]==1){
@@ -53,7 +53,7 @@ void fsm_automatic_run3(){
 			}
 			if(button_flag[3]==1){
 				button_flag[3]=0;
-				RED_TIME=timer2*100;
+				RED_TIME=timer2*10;
 			}
 			break;
 		case MAN_GREEN:
@@ -61,10 +61,10 @@ void fsm_automatic_run3(){
 			toogleGreen1();
 			if(timer2>99)timer2=0;
 
-			timer=02;
+			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
-				timer2=YELLOW_TIME/100;
+				timer2=YELLOW_TIME/10;
 				status3=MAN_YELLOW;
 			}
 			if(button_flag[1]==1){
@@ -77,7 +77,7 @@ void fsm_automatic_run3(){
 			}
 			if(button_flag[3]==1){
 				button_flag[3]=0;
-				YELLOW_TIME=timer2*100;
+				YELLOW_TIME=timer2*10;
 			}
 
 
@@ -88,7 +88,7 @@ void fsm_automatic_run3(){
 			toogleYellow1();
 			if(timer2>99)timer2=0;
 
-			timer=03;
+			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
 
@@ -104,7 +104,7 @@ void fsm_automatic_run3(){
 			}
 			if(button_flag[3]==1){
 				button_flag[3]=0;
-				YELLOW_TIME=timer2*100;
+				YELLOW_TIME=timer2*10;
 			}
 
 

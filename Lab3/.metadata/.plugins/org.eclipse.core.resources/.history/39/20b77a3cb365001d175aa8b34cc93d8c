@@ -34,11 +34,11 @@
 int status1 = INIT;
 int status2 = INIT;
 int status3 = RUNNING;
-int RED_TIME=1000;
+int RED_TIME=100;
 int timer=10;
-int GREEN_TIME=700;
+int GREEN_TIME=70;
 int timer2=7;
-int YELLOW_TIME=300;
+int YELLOW_TIME=30;
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -116,7 +116,7 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   setTimer0 (1) ;
-  setTimer3 (2) ;
+  setTimer3 (10) ;
 
   while (1)
   {

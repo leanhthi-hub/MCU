@@ -61,7 +61,7 @@ void fsm_automatic_run3(){
 			toogleGreen1();
 			if(timer2>99)timer2=0;
 
-			timer=02;
+			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
 				timer2=YELLOW_TIME/100;
@@ -88,7 +88,7 @@ void fsm_automatic_run3(){
 			toogleYellow1();
 			if(timer2>99)timer2=0;
 
-			timer=03;
+			timer=01;
 			if(button_flag[0]==1){
 				button_flag[0]=0;
 

@@ -33,7 +33,7 @@ void fsm_automatic_run2(){
 			if(timer2_flag==1){
 				status2 = AUTO_GREEN;
 				setTimer2(GREEN_TIME);
-				timer2=GREEN_TIME/100;
+				timer2=GREEN_TIME/10;
 			}
 
 
@@ -43,7 +43,7 @@ void fsm_automatic_run2(){
 			if(timer2_flag==1){
 				status2 = AUTO_YELLOW;
 				setTimer2(YELLOW_TIME);
-				timer2=YELLOW_TIME/100;
+				timer2=YELLOW_TIME/10;
 			}
 
 
@@ -53,7 +53,7 @@ void fsm_automatic_run2(){
 			if(timer2_flag==1){
 				status2 = AUTO_RED;
 				setTimer2(RED_TIME);
-				timer2=RED_TIME/100;
+				timer2=RED_TIME/10;
 			}
 
 

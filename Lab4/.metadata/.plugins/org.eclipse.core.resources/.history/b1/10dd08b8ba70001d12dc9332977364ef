@@ -2,7 +2,7 @@
  * fsm_manual.h
  *
  *  Created on: Oct 7, 2022
- *      Author: leanhthi
+ *      Author: hatru
  */
 #include "fsm_manual.h"
 #include "INC_BUTTON.h"

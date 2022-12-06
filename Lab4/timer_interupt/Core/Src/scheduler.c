@@ -54,25 +54,35 @@ void SCH_Dispatch_Tasks(void)
 		{
 			SCH_tasks_G[i].RunMe--;
 			(*SCH_tasks_G[i].pTask)();
+			if (SCH_tasks_G[i].Period == 0 )
+			{
+				SCH_Delete_Task (i) ;
+			}
 
 		}
 	}
 }
 void SCH_Delete_Task (uint32_t TASK_INDEX) {
 //	unsignedcharReturn_code ;
-	if( SCH_tasks_G [TASK_INDEX ] . pTask == 0) {
+//	if(SCH_tasks_G[TASK_INDEX].pTask == 0) {
 	//Notaskatt h i slocation. . .
 	//
 	//Settheglobalerrorvariable
 //	Error_code_G = ERROR_SCH_CANNOT_DELETE_TASK
 	//. . .alsoreturnanerrorcode
 //	Return_code = RETURN_ERROR;
-	}else{
+//	}else{
 //		Return_code = RETURN_NORMAL;
-	}
+//		return;
+//	}
+
 	SCH_tasks_G [TASK_INDEX ] . pTask = 0x0000 ;
 	SCH_tasks_G [TASK_INDEX ] . Delay = 0 ;
 	SCH_tasks_G [TASK_INDEX ] . Period = 0 ;
 	SCH_tasks_G [TASK_INDEX ] .RunMe = 0 ;
+	for( int i = TASK_INDEX; i < current_index_task-1; i++){
+		SCH_tasks_G[i]=SCH_tasks_G[i+1];
+	}
+	current_index_task--;
 //	returnReturn_code ;//returnstatus
 }

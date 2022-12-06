@@ -23,9 +23,9 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "SOFTWARE_TIMER.h"
-#include "INC_BUTTON.h"
+//#include "INC_BUTTON.h"
 #include <stdio.h>
-//#include "scheduler.h"
+#include "scheduler.h"
 //#include "fsm_automatic.h"
 //#include "fsm_manual.h"
 /* USER CODE END Includes */
@@ -45,11 +45,7 @@
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
-ADC_HandleTypeDef hadc1;
-
 TIM_HandleTypeDef htim2;
-
-UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
 
@@ -59,10 +55,14 @@ UART_HandleTypeDef huart2;
 void SystemClock_Config(void);
 static void MX_TIM2_Init(void);
 static void MX_GPIO_Init(void);
-static void MX_USART2_UART_Init(void);
-static void MX_ADC1_Init(void);
 /* USER CODE BEGIN PFP */
+void led1test(){
+	HAL_GPIO_TogglePin(Led_red_GPIO_Port, Led_red_Pin);
+}
+void led2test(){
+	HAL_GPIO_TogglePin(Led_green_GPIO_Port, Led_green_Pin);
 
+}
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
@@ -99,34 +99,41 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_TIM2_Init();
   MX_GPIO_Init();
-  MX_USART2_UART_Init();
-  MX_ADC1_Init();
   /* USER CODE BEGIN 2 */
   HAL_TIM_Base_Start_IT (& htim2 ) ;
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-//  SCH_Add_Task(led1test, 50, 500);
-//  SCH_Add_Task(led2test, 50, 200);
-  char str[50];
-  int time =0;
+  SCH_Add_Task(led1test, 20, 50);
+  SCH_Add_Task(led2test, 10, 0);
+  SCH_Add_Task(led2test, 30, 0);
+  SCH_Add_Task(led2test, 70, 0);
+  SCH_Add_Task(led2test, 110, 0);
+  SCH_Add_Task(led2test, 120, 0);
+  SCH_Add_Task(led2test, 150, 0);
+
+
+
+//  SCH_Add_Task(led2test, 70, 200);
+//  char str[50];
+//  int time =0;
   setTimer1(10);
   while (1)
   {
-//	  SCH_Dispatch_Tasks();
-	  if(timer1_flag == 1)
-	  {
-	  	HAL_UART_Transmit(&huart2, str, sprintf(str, "%d abcs",time), 1000);
-//	  	HAL_GPIO_TogglePin(GPIOA, Led_red_Pin);
-	  	time++;
-	  	setTimer1(10);
-	  }
-	  if(button1_flag==1){
-		HAL_GPIO_TogglePin(GPIOA, Led_red_Pin);
-		button1_flag=0;
-
-	  }
+	  SCH_Dispatch_Tasks();
+//	  if(timer1_flag == 1)
+//	  {
+//	  	HAL_UART_Transmit(&huart2, str, sprintf(str, "%d abcs",time), 1000);
+////	  	HAL_GPIO_TogglePin(GPIOA, Led_red_Pin);
+//	  	time++;
+//	  	setTimer1(10);
+//	  }
+//	  if(HAL_GPIO_ReadPin(button_1_GPIO_Port, button_1_Pin)==0){
+//		HAL_GPIO_TogglePin(GPIOA, Led_red_Pin);
+//		button1_flag=0;
+//		SCH_Add_Task(led2test, 100, 0);
+//	  }
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -142,7 +149,6 @@ void SystemClock_Config(void)
 {
   RCC_OscInitTypeDef RCC_OscInitStruct = {0};
   RCC_ClkInitTypeDef RCC_ClkInitStruct = {0};
-  RCC_PeriphCLKInitTypeDef PeriphClkInit = {0};
 
   /** Initializes the RCC Oscillators according to the specified parameters
   * in the RCC_OscInitTypeDef structure.
@@ -168,57 +174,6 @@ void SystemClock_Config(void)
   {
     Error_Handler();
   }
-  PeriphClkInit.PeriphClockSelection = RCC_PERIPHCLK_ADC;
-  PeriphClkInit.AdcClockSelection = RCC_ADCPCLK2_DIV2;
-  if (HAL_RCCEx_PeriphCLKConfig(&PeriphClkInit) != HAL_OK)
-  {
-    Error_Handler();
-  }
-}
-
-/**
-  * @brief ADC1 Initialization Function
-  * @param None
-  * @retval None
-  */
-static void MX_ADC1_Init(void)
-{
-
-  /* USER CODE BEGIN ADC1_Init 0 */
-
-  /* USER CODE END ADC1_Init 0 */
-
-  ADC_ChannelConfTypeDef sConfig = {0};
-
-  /* USER CODE BEGIN ADC1_Init 1 */
-
-  /* USER CODE END ADC1_Init 1 */
-  /** Common config
-  */
-  hadc1.Instance = ADC1;
-  hadc1.Init.ScanConvMode = ADC_SCAN_DISABLE;
-  hadc1.Init.ContinuousConvMode = ENABLE;
-  hadc1.Init.DiscontinuousConvMode = DISABLE;
-  hadc1.Init.ExternalTrigConv = ADC_SOFTWARE_START;
-  hadc1.Init.DataAlign = ADC_DATAALIGN_RIGHT;
-  hadc1.Init.NbrOfConversion = 1;
-  if (HAL_ADC_Init(&hadc1) != HAL_OK)
-  {
-    Error_Handler();
-  }
-  /** Configure Regular Channel
-  */
-  sConfig.Channel = ADC_CHANNEL_0;
-  sConfig.Rank = ADC_REGULAR_RANK_1;
-  sConfig.SamplingTime = ADC_SAMPLETIME_1CYCLE_5;
-  if (HAL_ADC_ConfigChannel(&hadc1, &sConfig) != HAL_OK)
-  {
-    Error_Handler();
-  }
-  /* USER CODE BEGIN ADC1_Init 2 */
-
-  /* USER CODE END ADC1_Init 2 */
-
 }
 
 /**
@@ -267,39 +222,6 @@ static void MX_TIM2_Init(void)
 }
 
 /**
-  * @brief USART2 Initialization Function
-  * @param None
-  * @retval None
-  */
-static void MX_USART2_UART_Init(void)
-{
-
-  /* USER CODE BEGIN USART2_Init 0 */
-
-  /* USER CODE END USART2_Init 0 */
-
-  /* USER CODE BEGIN USART2_Init 1 */
-
-  /* USER CODE END USART2_Init 1 */
-  huart2.Instance = USART2;
-  huart2.Init.BaudRate = 9600;
-  huart2.Init.WordLength = UART_WORDLENGTH_8B;
-  huart2.Init.StopBits = UART_STOPBITS_1;
-  huart2.Init.Parity = UART_PARITY_NONE;
-  huart2.Init.Mode = UART_MODE_TX_RX;
-  huart2.Init.HwFlowCtl = UART_HWCONTROL_NONE;
-  huart2.Init.OverSampling = UART_OVERSAMPLING_16;
-  if (HAL_UART_Init(&huart2) != HAL_OK)
-  {
-    Error_Handler();
-  }
-  /* USER CODE BEGIN USART2_Init 2 */
-
-  /* USER CODE END USART2_Init 2 */
-
-}
-
-/**
   * @brief GPIO Initialization Function
   * @param None
   * @retval None
@@ -332,9 +254,10 @@ static void MX_GPIO_Init(void)
 /* USER CODE BEGIN 4 */
 void HAL_TIM_PeriodElapsedCallback ( TIM_HandleTypeDef * htim )
 {
-//	SCH_Update();
-	getKeyInput();
-	timerRun();
+	SCH_Update();
+//	getKeyInput();
+//	button_reading();
+//	timerRun();
 //	time
 }
 

@@ -15,7 +15,7 @@ void SCH_Init(void)
 		current_index_task = 0;
 }
 
-void SCH_Add_Task ( void (*pFunction)() , uint32_t DELAY, uint32_t PERIOD)
+uint32_t SCH_Add_Task ( void (*pFunction)() , uint32_t DELAY, uint32_t PERIOD)
 {
 	if(current_index_task < SCH_MAX_TASKS)
 	{
@@ -24,10 +24,11 @@ void SCH_Add_Task ( void (*pFunction)() , uint32_t DELAY, uint32_t PERIOD)
 		SCH_tasks_G[current_index_task].Delay = DELAY/TIMER_CYCLE;
 		SCH_tasks_G[current_index_task].Period = PERIOD/TIMER_CYCLE;
 		SCH_tasks_G[current_index_task].RunMe = 0;
-		//SCH_tasks_G[current_index_task].TaskID = current_index_task;
-
+//		SCH_tasks_G[current_index_task].TaskID = current_index_task;
 		current_index_task++;
+		return current_index_task-1;
 	}
+	return -1;
 }
 
 void SCH_Update(void)
@@ -65,16 +66,14 @@ void SCH_Dispatch_Tasks(void)
 	}
 }
 
-void SCH_Delete_Task(const uint8_t TASK_INDEX)
+uint8_t SCH_Delete_Task(const uint8_t TASK_INDEX)//in array index is taskid
 {
    if(TASK_INDEX >= current_index_task)
    {
-	   HAL_GPIO_TogglePin(GPIOA, Led_1_Pin);
-	   return;
+	   return -1;
    }
    else
    {
-	   HAL_GPIO_WritePin(GPIOA, Led_2_Pin, SET);
 	   for( int i = TASK_INDEX; i < current_index_task - 1; i++)
 	   {
 			SCH_tasks_G[i].pTask = SCH_tasks_G[i + 1].pTask;
@@ -84,5 +83,6 @@ void SCH_Delete_Task(const uint8_t TASK_INDEX)
 	   }
 
 	   current_index_task--;
+	   return 1;
    }
 }

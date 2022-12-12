@@ -77,7 +77,7 @@ void fsm_automatic_run3(){
 			}
 			if(button_flag[3]==1){
 				button_flag[3]=0;
-				YELLOW_TIME=timer2*100;
+				GREEN_TIME=timer2*100;
 			}
 
 
